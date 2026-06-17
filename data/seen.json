@@ -1,3 +1,24 @@
 {
-  "repositories": {}
+  "repositories": {
+    "610304135": {
+      "full_name": "zxp19821005/My_AUR_Files",
+      "first_seen_at": "2026-06-17",
+      "source_query": "pomodoro widget"
+    },
+    "1178039434": {
+      "full_name": "ales-drnz/mpv_audio_kit",
+      "first_seen_at": "2026-06-17",
+      "source_query": "android widget"
+    },
+    "1185197995": {
+      "full_name": "simonlinuxcraft/claude-ai-desktop-app",
+      "first_seen_at": "2026-06-17",
+      "source_query": "tray app"
+    },
+    "1203570172": {
+      "full_name": "biggiesmallcap-blip/NOORwave",
+      "first_seen_at": "2026-06-17",
+      "source_query": "tray app"
+    }
+  }
 }

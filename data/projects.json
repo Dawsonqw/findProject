@@ -1,5 +1,92 @@
 {
-  "generated_at": null,
-  "total_count": 0,
-  "projects": []
+  "generated_at": "2026-06-17T13:11:46.516Z",
+  "total_count": 4,
+  "projects": [
+    {
+      "date_found": "2026-06-17",
+      "id": 610304135,
+      "full_name": "zxp19821005/My_AUR_Files",
+      "name": "My_AUR_Files",
+      "url": "https://github.com/zxp19821005/My_AUR_Files",
+      "description": "Store My AUR Files Only",
+      "platforms": [
+        "desktop"
+      ],
+      "categories": [],
+      "language": "Shell",
+      "stars": 24,
+      "forks": 6,
+      "license": "MIT",
+      "last_pushed_at": "2026-06-17T11:59:04Z",
+      "reason": "Matched \"pomodoro widget\" as a desktop project with interesting app signals.",
+      "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
+      "source_query": "pomodoro widget",
+      "score": 9
+    },
+    {
+      "date_found": "2026-06-17",
+      "id": 1178039434,
+      "full_name": "ales-drnz/mpv_audio_kit",
+      "name": "mpv_audio_kit",
+      "url": "https://github.com/ales-drnz/mpv_audio_kit",
+      "description": "mpv_audio_kit is an audio library built on mpv v0.41.0. It provides a dedicated background event loop, a complete DSP pipeline, and direct access to every property, making it the most capable audio library available for Flutter.",
+      "platforms": [
+        "android"
+      ],
+      "categories": [],
+      "language": "Dart",
+      "stars": 20,
+      "forks": 5,
+      "license": "BSD-3-Clause",
+      "last_pushed_at": "2026-06-17T13:10:24Z",
+      "reason": "Matched \"android widget\" as a android project with interesting app signals.",
+      "dev_idea": "Wrap the idea as a focused Android app with friendly onboarding for non-technical users.",
+      "source_query": "android widget",
+      "score": 9
+    },
+    {
+      "date_found": "2026-06-17",
+      "id": 1185197995,
+      "full_name": "simonlinuxcraft/claude-ai-desktop-app",
+      "name": "claude-ai-desktop-app",
+      "url": "https://github.com/simonlinuxcraft/claude-ai-desktop-app",
+      "description": "Fast, Linux desktop app for Claude AI. Tabs, dark mode, system tray, global hotkey, auto-updates. AppImage + Snap.",
+      "platforms": [
+        "desktop"
+      ],
+      "categories": [
+        "widget"
+      ],
+      "language": "JavaScript",
+      "stars": 11,
+      "forks": 1,
+      "license": "MIT",
+      "last_pushed_at": "2026-06-17T13:09:25Z",
+      "reason": "Matched \"tray app\" as a desktop project with widget signals.",
+      "dev_idea": "Make it a polished widget with themes, one-click setup, and simple settings for non-technical users.",
+      "source_query": "tray app",
+      "score": 9
+    },
+    {
+      "date_found": "2026-06-17",
+      "id": 1203570172,
+      "full_name": "biggiesmallcap-blip/NOORwave",
+      "name": "NOORwave",
+      "url": "https://github.com/biggiesmallcap-blip/NOORwave",
+      "description": "Self-hosted TIDAL command center in Rust + SvelteKit. Hi-fi gapless playback, local library sync, learned discovery engine, Song Radio, Genre Galaxy (285 genres), automix with Camelot harmonic mixing, smart playlists, DSP audio analysis (BPM/key/energy), Ctrl+K command palette, LAN access, Tauri desktop app.",
+      "platforms": [
+        "desktop"
+      ],
+      "categories": [],
+      "language": "Rust",
+      "stars": 9,
+      "forks": 0,
+      "license": "MIT",
+      "last_pushed_at": "2026-06-17T13:09:46Z",
+      "reason": "Matched \"tray app\" as a desktop project with interesting app signals.",
+      "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
+      "source_query": "tray app",
+      "score": 5
+    }
+  ]
 }
