@@ -1,0 +1,53 @@
+{
+  "dailyTarget": 20,
+  "maxQueriesPerRun": 18,
+  "perPage": 20,
+  "starRange": {
+    "min": 5,
+    "max": 2000
+  },
+  "pushedWithinYears": 5,
+  "queryGroups": [
+    {
+      "name": "desktop",
+      "platforms": ["desktop", "windows"],
+      "queries": ["desktop pet", "floating widget", "tray app", "screensaver", "wallpaper app", "electron toy", "tauri app", "desktop toy"]
+    },
+    {
+      "name": "games",
+      "platforms": ["game"],
+      "queries": ["mini game", "pygame toy", "godot mini game", "virtual pet", "pixel pet", "idle game", "toy app"]
+    },
+    {
+      "name": "android",
+      "platforms": ["android"],
+      "queries": ["android toy", "android widget", "flutter game", "kotlin app", "compose app"]
+    },
+    {
+      "name": "mini-program",
+      "platforms": ["mini-program"],
+      "queries": ["wechat mini program", "miniprogram", "uni-app toy", "taro app", "微信小程序"]
+    },
+    {
+      "name": "utilities",
+      "platforms": ["tool"],
+      "queries": ["clipboard tool", "habit tracker", "pomodoro widget", "note widget", "timer widget"]
+    }
+  ],
+  "excludeKeywords": ["awesome", "framework", "sdk", "boilerplate", "template", "tutorial", "course", "algorithm", "leetcode", "backend", "serverless", "starter"],
+  "platformRules": {
+    "desktop": ["desktop", "electron", "tauri", "tray", "widget", "screen", "wallpaper", "pet"],
+    "windows": ["windows", "win32", "wpf", "uwp", ".net"],
+    "android": ["android", "kotlin", "compose", "flutter"],
+    "mini-program": ["wechat", "miniprogram", "mini program", "微信小程序", "uni-app", "taro"],
+    "game": ["game", "pygame", "godot", "pet", "idle", "pixel"],
+    "tool": ["clipboard", "timer", "pomodoro", "habit", "note", "utility"]
+  },
+  "categoryRules": {
+    "pet": ["pet", "virtual pet", "desktop pet", "pixel pet"],
+    "widget": ["widget", "floating", "tray"],
+    "game": ["game", "pygame", "godot", "idle"],
+    "productivity": ["clipboard", "timer", "pomodoro", "habit", "note"],
+    "visual": ["wallpaper", "screensaver", "pixel"]
+  }
+}
