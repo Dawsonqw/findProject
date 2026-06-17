@@ -1,7 +1,7 @@
 {
   "dailyTarget": 20,
-  "maxQueriesPerRun": 18,
-  "perPage": 20,
+  "maxQueriesPerRun": 28,
+  "perPage": 50,
   "starRange": {
     "min": 5,
     "max": 2000
@@ -11,36 +11,36 @@
     {
       "name": "desktop",
       "platforms": ["desktop", "windows"],
-      "queries": ["desktop pet", "floating widget", "tray app", "screensaver", "wallpaper app", "electron toy", "tauri app", "desktop toy"]
+      "queries": ["desktop pet", "virtual pet desktop", "desktop mascot", "floating widget", "tray app", "screensaver", "wallpaper app", "electron toy", "tauri app", "desktop toy", "topic:electron widget", "topic:tauri desktop"]
     },
     {
       "name": "games",
       "platforms": ["game"],
-      "queries": ["mini game", "pygame toy", "godot mini game", "virtual pet", "pixel pet", "idle game", "toy app"]
+      "queries": ["mini game", "pygame toy", "godot mini game", "virtual pet", "pixel pet", "idle game", "toy app", "topic:pygame game", "topic:godot game", "topic:virtual-pet", "topic:pixel-art game", "topic:casual-game"]
     },
     {
       "name": "android",
       "platforms": ["android"],
-      "queries": ["android toy", "android widget", "flutter game", "kotlin app", "compose app"]
+      "queries": ["android toy", "android widget", "flutter game", "kotlin app", "compose app", "topic:android widget", "topic:jetpack-compose app", "topic:flutter game", "topic:kotlin android", "topic:android-app"]
     },
     {
       "name": "mini-program",
       "platforms": ["mini-program"],
-      "queries": ["wechat mini program", "miniprogram", "uni-app toy", "taro app", "微信小程序"]
+      "queries": ["wechat mini program", "miniprogram", "uni-app toy", "taro app", "微信小程序", "topic:miniprogram", "topic:wechat-mini-program", "topic:uni-app"]
     },
     {
       "name": "utilities",
       "platforms": ["tool"],
-      "queries": ["clipboard tool", "habit tracker", "pomodoro widget", "note widget", "timer widget"]
+      "queries": ["clipboard tool", "habit tracker", "pomodoro widget", "note widget", "timer widget", "sticky notes app", "desktop timer", "topic:pomodoro", "topic:clipboard-manager", "topic:habit-tracker"]
     }
   ],
   "excludeKeywords": ["awesome", "framework", "sdk", "boilerplate", "template", "tutorial", "course", "algorithm", "leetcode", "backend", "serverless", "starter", "scraper", "scraping", "crawler", "crawl", "data api", "database", "admin", "plugin", "sandbox", "agent", "mirror"],
   "platformRules": {
-    "desktop": ["desktop", "electron", "tauri", "tray", "widget", "screen", "wallpaper", "pet"],
+    "desktop": ["desktop", "electron", "tauri", "tray", "widget", "screen", "wallpaper", "pet", "mascot"],
     "windows": ["windows", "win32", "wpf", "uwp", ".net"],
     "android": ["android", "kotlin", "compose", "flutter"],
     "mini-program": ["wechat", "miniprogram", "mini program", "微信小程序", "uni-app", "taro"],
-    "game": ["game", "pygame", "godot", "pet", "idle", "pixel"],
+    "game": ["game", "pygame", "godot", "pet", "idle", "pixel", "casual"],
     "tool": ["clipboard", "timer", "pomodoro", "habit", "note", "utility"]
   },
   "categoryRules": {

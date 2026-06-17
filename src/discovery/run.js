@@ -9,6 +9,12 @@ function dateOnly(now) {
   return now.toISOString().slice(0, 10);
 }
 
+function yearsAgoDate(now, years) {
+  const date = new Date(now);
+  date.setUTCFullYear(date.getUTCFullYear() - years);
+  return dateOnly(date);
+}
+
 function allQueries(config) {
   const queries = [];
   const maxGroupLength = Math.max(...config.queryGroups.map((group) => group.queries.length));
@@ -39,7 +45,11 @@ export async function runDiscovery({
   for (const query of allQueries(config)) {
     if (candidates.length >= config.dailyTarget * 4) break;
     try {
-      const repos = await client.searchRepositories(query, { perPage: config.perPage });
+      const repos = await client.searchRepositories(query, {
+        perPage: config.perPage,
+        starRange: config.starRange,
+        pushedAfter: yearsAgoDate(now, config.pushedWithinYears)
+      });
       for (const repo of repos) {
         if (filterRepository(repo, config, now)) {
           candidates.push(enrichRepository(repo, { config, dateFound, sourceQuery: query }));

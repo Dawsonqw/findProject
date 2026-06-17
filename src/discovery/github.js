@@ -13,9 +13,16 @@ export class GitHubClient {
     this.fetchImpl = fetchImpl;
   }
 
-  async searchRepositories(query, { perPage = 20 } = {}) {
+  async searchRepositories(query, { perPage = 20, starRange, pushedAfter } = {}) {
     const url = new URL('https://api.github.com/search/repositories');
-    url.searchParams.set('q', `${query} in:name,description,readme archived:false fork:false`);
+    const qualifiers = ['in:name,description,topics', 'archived:false', 'fork:false'];
+    if (starRange) {
+      qualifiers.push(`stars:${starRange.min}..${starRange.max}`);
+    }
+    if (pushedAfter) {
+      qualifiers.push(`pushed:>${pushedAfter}`);
+    }
+    url.searchParams.set('q', `${query} ${qualifiers.join(' ')}`);
     url.searchParams.set('sort', 'updated');
     url.searchParams.set('order', 'desc');
     url.searchParams.set('per_page', String(perPage));

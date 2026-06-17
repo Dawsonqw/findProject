@@ -19,4 +19,13 @@ describe('discovery config', () => {
   it('defines a moderate star range for cold-project discovery', () => {
     expect(config.starRange).toEqual({ min: 5, max: 2000 });
   });
+
+  it('has enough query volume to target 20 accepted projects', () => {
+    const queryCount = config.queryGroups.reduce((count, group) => count + group.queries.length, 0);
+
+    expect(config.perPage).toBeGreaterThanOrEqual(50);
+    expect(config.maxQueriesPerRun).toBeGreaterThanOrEqual(24);
+    expect(config.maxQueriesPerRun).toBeLessThanOrEqual(28);
+    expect(queryCount).toBeGreaterThanOrEqual(50);
+  });
 });
