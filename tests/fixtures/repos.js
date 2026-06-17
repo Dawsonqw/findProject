@@ -61,3 +61,35 @@ export const tooPopularRepo = {
   topics: ['framework'],
   license: { spdx_id: 'MIT' }
 };
+
+export const keywordScraperRepo = {
+  id: 105,
+  full_name: 'fdciabdul/Google-Trends-Keywords-Scraper',
+  html_url: 'https://github.com/fdciabdul/Google-Trends-Keywords-Scraper',
+  name: 'Google-Trends-Keywords-Scraper',
+  description: 'Scraping Trends Keywords from Google ( All Country)',
+  stargazers_count: 149,
+  forks_count: 44,
+  language: 'JavaScript',
+  archived: false,
+  fork: false,
+  pushed_at: '2026-06-17T12:12:37Z',
+  topics: [],
+  license: null
+};
+
+export const kotlinMirrorRepo = {
+  id: 106,
+  full_name: 'downthecrop/2009scape-mirror',
+  html_url: 'https://github.com/downthecrop/2009scape-mirror',
+  name: '2009scape-mirror',
+  description: 'Mirror of 2009scape GitLab so I can get some nice little green boxes on my profile.',
+  stargazers_count: 14,
+  forks_count: 4,
+  language: 'Kotlin',
+  archived: false,
+  fork: false,
+  pushed_at: '2026-06-17T12:45:03Z',
+  topics: [],
+  license: { spdx_id: 'AGPL-3.0' }
+};

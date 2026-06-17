@@ -1,7 +1,7 @@
 const DAY_MS = 24 * 60 * 60 * 1000;
 
 function searchableText(repo) {
-  return [repo.full_name, repo.name, repo.description, repo.language, ...(repo.topics ?? [])]
+  return [repo.full_name, repo.name, repo.description, ...(repo.topics ?? [])]
     .filter(Boolean)
     .join(' ')
     .toLowerCase();
@@ -28,6 +28,10 @@ export function filterRepository(repo, config, now = new Date()) {
   const text = searchableText(repo);
   if (!repo.description && text.trim().length === 0) return false;
   if (matchesAny(text, config.excludeKeywords)) return false;
+
+  const platformTags = tagsFromRules(repo, config.platformRules);
+  const categoryTags = tagsFromRules(repo, config.categoryRules);
+  if (platformTags.length === 0 && categoryTags.length === 0) return false;
 
   return true;
 }

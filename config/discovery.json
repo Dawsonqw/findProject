@@ -34,7 +34,7 @@
       "queries": ["clipboard tool", "habit tracker", "pomodoro widget", "note widget", "timer widget"]
     }
   ],
-  "excludeKeywords": ["awesome", "framework", "sdk", "boilerplate", "template", "tutorial", "course", "algorithm", "leetcode", "backend", "serverless", "starter"],
+  "excludeKeywords": ["awesome", "framework", "sdk", "boilerplate", "template", "tutorial", "course", "algorithm", "leetcode", "backend", "serverless", "starter", "scraper", "scraping", "crawler", "crawl", "data api", "database", "admin", "plugin", "sandbox", "agent", "mirror"],
   "platformRules": {
     "desktop": ["desktop", "electron", "tauri", "tray", "widget", "screen", "wallpaper", "pet"],
     "windows": ["windows", "win32", "wpf", "uwp", ".net"],

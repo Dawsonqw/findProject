@@ -1,7 +1,14 @@
 import { describe, expect, it } from 'vitest';
 import config from '../../config/discovery.json' with { type: 'json' };
 import { enrichRepository, filterRepository, rankProjects } from '../../src/discovery/scoring.js';
-import { androidWidgetRepo, desktopPetRepo, excludedAwesomeRepo, tooPopularRepo } from '../fixtures/repos.js';
+import {
+  androidWidgetRepo,
+  desktopPetRepo,
+  excludedAwesomeRepo,
+  keywordScraperRepo,
+  kotlinMirrorRepo,
+  tooPopularRepo
+} from '../fixtures/repos.js';
 
 describe('filterRepository', () => {
   it('accepts a focused playful desktop project', () => {
@@ -11,6 +18,11 @@ describe('filterRepository', () => {
   it('rejects awesome lists and overly popular frameworks', () => {
     expect(filterRepository(excludedAwesomeRepo, config, new Date('2026-06-17T00:00:00Z'))).toBe(false);
     expect(filterRepository(tooPopularRepo, config, new Date('2026-06-17T00:00:00Z'))).toBe(false);
+  });
+
+  it('rejects backend scraping and language-only platform matches', () => {
+    expect(filterRepository(keywordScraperRepo, config, new Date('2026-06-17T00:00:00Z'))).toBe(false);
+    expect(filterRepository(kotlinMirrorRepo, config, new Date('2026-06-17T00:00:00Z'))).toBe(false);
   });
 });
 
