@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>GitHub Project Discovery</title>
+    <link rel="stylesheet" href="./styles.css">
+  </head>
+  <body>
+    <main data-app>
+      <header class="page-header">
+        <div>
+          <h1>GitHub Project Discovery</h1>
+          <p>Small, playful repositories for secondary development research.</p>
+        </div>
+        <div class="status" data-latest>Loading latest run...</div>
+      </header>
+
+      <section class="toolbar" aria-label="Project filters">
+        <input data-search type="search" aria-label="Search projects">
+        <select data-platform>
+          <option value="all">All platforms</option>
+          <option value="desktop">Desktop</option>
+          <option value="windows">Windows</option>
+          <option value="android">Android</option>
+          <option value="mini-program">Mini program</option>
+          <option value="game">Game</option>
+          <option value="tool">Tool</option>
+          <option value="unknown">Unknown</option>
+        </select>
+        <select data-category>
+          <option value="all">All categories</option>
+        </select>
+        <select data-sort>
+          <option value="date_found">Newest found</option>
+          <option value="stars">Stars</option>
+          <option value="last_pushed_at">Recently pushed</option>
+        </select>
+      </section>
+
+      <nav class="links" aria-label="Data files">
+        <a href="./data/projects.csv">CSV</a>
+        <a href="./data/projects.json">JSON</a>
+        <a href="./docs/discoveries/">Markdown discoveries</a>
+        <span><strong data-count>0</strong> visible</span>
+      </nav>
+
+      <section class="project-list" data-projects>
+        <p class="empty">Loading projects...</p>
+      </section>
+    </main>
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
