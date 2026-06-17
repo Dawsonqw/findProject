@@ -22,6 +22,12 @@ Run discovery:
 npm run discover
 ```
 
+For better local API quota, run with a GitHub token:
+
+```bash
+GITHUB_TOKEN=your_token npm run discover
+```
+
 ## Generated Files
 
 - `data/projects.json`: cumulative data used by the static site.
