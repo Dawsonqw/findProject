@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T13:17:34.175Z",
-  "total_count": 7,
+  "generated_at": "2026-06-17T13:23:17.425Z",
+  "total_count": 27,
   "projects": [
     {
       "date_found": "2026-06-17",
@@ -152,6 +152,495 @@
       "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
       "source_query": "floating widget",
       "score": 0
+    },
+    {
+      "date_found": "2026-06-17",
+      "id": 1074584672,
+      "full_name": "Marksonthegamer/Mate-Engine-Linux-Port",
+      "name": "Mate-Engine-Linux-Port",
+      "url": "https://github.com/Marksonthegamer/Mate-Engine-Linux-Port",
+      "description": "VRM desktop pet software for Linux (aka Unofficial Linux port of shinyflvre's MateEngine)",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "game",
+        "pet"
+      ],
+      "language": "ShaderLab",
+      "stars": 244,
+      "forks": 20,
+      "license": "NOASSERTION",
+      "last_pushed_at": "2026-05-31T03:58:53Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with game, pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 22
+    },
+    {
+      "date_found": "2026-06-17",
+      "id": 718258944,
+      "full_name": "DalekCraft2/Shimeji-Desktop",
+      "name": "Shimeji-Desktop",
+      "url": "https://github.com/DalekCraft2/Shimeji-Desktop",
+      "description": "A port of Shimeji-ee from JRE 6 to JDK 25. Also has many code changes and bug fixes, but attempts to preserve backward compatibility.",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "game",
+        "pet"
+      ],
+      "language": "Java",
+      "stars": 37,
+      "forks": 11,
+      "license": "NOASSERTION",
+      "last_pushed_at": "2026-06-16T19:42:32Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with game, pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 22
+    },
+    {
+      "date_found": "2026-06-17",
+      "id": 332417024,
+      "full_name": "HeXavi8/Bugu-Sport",
+      "name": "Bugu-Sport",
+      "url": "https://github.com/HeXavi8/Bugu-Sport",
+      "description": "Bugu Sport is a Wechat Mini Program based on on-campus sports. It has several functions, including inviting to the game, joining the streetball, managing teams, organizing competitions, personal authentication. 不咕约球：基于校园体育的微信小程序，有约赛、野球、队伍、赛事、认证等功能。",
+      "platforms": [
+        "desktop",
+        "game",
+        "mini-program"
+      ],
+      "categories": [
+        "game",
+        "pet"
+      ],
+      "language": "JavaScript",
+      "stars": 17,
+      "forks": 6,
+      "license": "MIT",
+      "last_pushed_at": "2026-02-23T09:19:49Z",
+      "reason": "Matched \"wechat mini program\" as a desktop, game, mini-program project with game, pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "wechat mini program",
+      "score": 21
+    },
+    {
+      "date_found": "2026-06-17",
+      "id": 1263615935,
+      "full_name": "dee-dee-catorce/deskpublic",
+      "name": "deskpublic",
+      "url": "https://github.com/dee-dee-catorce/deskpublic",
+      "description": "(WIP) An interactable desktop pet based on the Expie from Casualties Unknown, a neat little game by Orsoniks/Moffee.",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "game",
+        "pet"
+      ],
+      "language": "GDScript",
+      "stars": 14,
+      "forks": 4,
+      "license": "MIT",
+      "last_pushed_at": "2026-06-12T01:10:45Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with game, pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 18
+    },
+    {
+      "date_found": "2026-06-17",
+      "id": 24142395,
+      "full_name": "js13kGames/extreme-mini-massacre",
+      "name": "extreme-mini-massacre",
+      "url": "https://github.com/js13kGames/extreme-mini-massacre",
+      "description": "EXTREME MINI MASSACRE — a js13kGames 2014 game by @bitnenfer.",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "game",
+        "pet"
+      ],
+      "language": "JavaScript",
+      "stars": 5,
+      "forks": 7,
+      "license": "",
+      "last_pushed_at": "2026-05-28T13:48:00Z",
+      "reason": "Matched \"mini game\" as a desktop, game project with game, pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "mini game",
+      "score": 18
+    },
+    {
+      "date_found": "2026-06-17",
+      "id": 1242473355,
+      "full_name": "OpenBMB/MiniCPM-Desk-Pet",
+      "name": "MiniCPM-Desk-Pet",
+      "url": "https://github.com/OpenBMB/MiniCPM-Desk-Pet",
+      "description": "a local-first desktop pet powered by MiniCPM5",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "JavaScript",
+      "stars": 295,
+      "forks": 35,
+      "license": "AGPL-3.0",
+      "last_pushed_at": "2026-06-17T13:14:54Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 17
+    },
+    {
+      "date_found": "2026-06-17",
+      "id": 1253176096,
+      "full_name": "Wanduforl/MacArkPet",
+      "name": "MacArkPet",
+      "url": "https://github.com/Wanduforl/MacArkPet",
+      "description": "Unofficial GPL-3.0 native macOS desktop pet app inspired by Ark-Pets.",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "JavaScript",
+      "stars": 145,
+      "forks": 1,
+      "license": "GPL-3.0",
+      "last_pushed_at": "2026-06-12T05:04:20Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 17
+    },
+    {
+      "date_found": "2026-06-17",
+      "id": 1000874106,
+      "full_name": "liwenka1/bongo-cat-next",
+      "name": "bongo-cat-next",
+      "url": "https://github.com/liwenka1/bongo-cat-next",
+      "description": "🐱 A modern desktop pet app with cute Live2D cats | 现代化桌面宠物应用，可爱Live2D猫咪陪伴编程",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "TypeScript",
+      "stars": 125,
+      "forks": 24,
+      "license": "MIT",
+      "last_pushed_at": "2026-06-07T18:16:13Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 17
+    },
+    {
+      "date_found": "2026-06-17",
+      "id": 1242077982,
+      "full_name": "ppXD/petpet",
+      "name": "petpet",
+      "url": "https://github.com/ppXD/petpet",
+      "description": "A desktop pet that lives with you and grows alongside your AI work — every prompt is XP, every level a new form. 🥚→🦄🐒🦍",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "Rust",
+      "stars": 107,
+      "forks": 7,
+      "license": "MIT",
+      "last_pushed_at": "2026-05-19T08:47:36Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 17
+    },
+    {
+      "date_found": "2026-06-17",
+      "id": 1161357377,
+      "full_name": "PeonPing/peon-pet",
+      "name": "peon-pet",
+      "url": "https://github.com/PeonPing/peon-pet",
+      "description": "macOS desktop pet for Peon-Ping — an orc that reacts to your Claude Code events with sprite animations.",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "JavaScript",
+      "stars": 97,
+      "forks": 18,
+      "license": "",
+      "last_pushed_at": "2026-05-06T20:50:31Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 17
+    },
+    {
+      "date_found": "2026-06-17",
+      "id": 1257524396,
+      "full_name": "momori777/Artemis",
+      "name": "Artemis",
+      "url": "https://github.com/momori777/Artemis",
+      "description": "🩵uncensored Fully offline AI girlfriends harem Openclaw+Local LLM+GPT-SoVITS+ComfyUI image+Live2D+desktop pet+SilllyTavern Character card import| Dual channels for QQ & Telegram | Dynamic 8GB VRAM scheduling, can run offline完全离线 AI 女友后宫 |小龙虾+本地大模型+GPT-SoVITS+ComfyUI+Live2D+桌宠+酒馆角色卡导入|QQ & Telegram 双通道 | 8GB 显存动态调度断网可跑",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "Python",
+      "stars": 80,
+      "forks": 5,
+      "license": "NOASSERTION",
+      "last_pushed_at": "2026-06-17T08:26:39Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 17
+    },
+    {
+      "date_found": "2026-06-17",
+      "id": 1241621727,
+      "full_name": "bleeeet/TermiPet",
+      "name": "TermiPet",
+      "url": "https://github.com/bleeeet/TermiPet",
+      "description": "A macOS desktop pet assistant that runs alongside Claude Code and the terminal, supporting status cards, quick commands, AI usage tracking, and local-first pet chat.",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "Swift",
+      "stars": 74,
+      "forks": 9,
+      "license": "Apache-2.0",
+      "last_pushed_at": "2026-05-20T16:42:11Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 17
+    },
+    {
+      "date_found": "2026-06-17",
+      "id": 1233543737,
+      "full_name": "dylan-labs/nom-pet",
+      "name": "nom-pet",
+      "url": "https://github.com/dylan-labs/nom-pet",
+      "description": "A desktop pet that eats the AI tokens you burn through Claude Code.",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "TypeScript",
+      "stars": 73,
+      "forks": 1,
+      "license": "NOASSERTION",
+      "last_pushed_at": "2026-05-26T09:42:57Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 17
+    },
+    {
+      "date_found": "2026-06-17",
+      "id": 1155507082,
+      "full_name": "x380kkm/Live2DPet",
+      "name": "Live2DPet",
+      "url": "https://github.com/x380kkm/Live2DPet",
+      "description": "AI-powered Live2D desktop pet companion with VOICEVOX TTS",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "JavaScript",
+      "stars": 61,
+      "forks": 7,
+      "license": "MIT",
+      "last_pushed_at": "2026-06-17T12:55:34Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 17
+    },
+    {
+      "date_found": "2026-06-17",
+      "id": 1206073773,
+      "full_name": "DonkeyKing01/BriefyPet",
+      "name": "BriefyPet",
+      "url": "https://github.com/DonkeyKing01/BriefyPet",
+      "description": "An AI-powered desktop reading companion that filters RSS sources, summarizes content with LLMs, and reminds you of high-value information.",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "Rust",
+      "stars": 41,
+      "forks": 1,
+      "license": "MIT",
+      "last_pushed_at": "2026-05-08T10:31:12Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 17
+    },
+    {
+      "date_found": "2026-06-17",
+      "id": 1141658405,
+      "full_name": "yetone/confirmo-releases",
+      "name": "confirmo-releases",
+      "url": "https://github.com/yetone/confirmo-releases",
+      "description": "A desktop pet developed for claude code users.",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "",
+      "stars": 34,
+      "forks": 1,
+      "license": "",
+      "last_pushed_at": "2026-05-18T09:18:38Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 17
+    },
+    {
+      "date_found": "2026-06-17",
+      "id": 1132595909,
+      "full_name": "qingchenyouforcc/NeurolingsCE",
+      "name": "NeurolingsCE",
+      "url": "https://github.com/qingchenyouforcc/NeurolingsCE",
+      "description": "Shimeji-Qt desktop pet neuro custom edition. NeurolingsCE's core code repository. Deep Modification of Shijima-Qt.",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "C++",
+      "stars": 24,
+      "forks": 3,
+      "license": "GPL-3.0",
+      "last_pushed_at": "2026-05-26T04:25:00Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 17
+    },
+    {
+      "date_found": "2026-06-17",
+      "id": 1232917466,
+      "full_name": "KebeliSamet0/clawd",
+      "name": "clawd",
+      "url": "https://github.com/KebeliSamet0/clawd",
+      "description": "Pixel-art Claude AI mascot desktop pet for Windows — roams your screen, plays animations, lives in system tray. Built for Claude Code, Cursor & Codex users.",
+      "platforms": [
+        "desktop",
+        "game",
+        "windows"
+      ],
+      "categories": [
+        "pet",
+        "visual",
+        "widget"
+      ],
+      "language": "JavaScript",
+      "stars": 5,
+      "forks": 1,
+      "license": "MIT",
+      "last_pushed_at": "2026-05-18T22:26:06Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game, windows project with pet, visual, widget signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 17
+    },
+    {
+      "date_found": "2026-06-17",
+      "id": 101243754,
+      "full_name": "digitalgust/miniJVM",
+      "name": "miniJVM",
+      "url": "https://github.com/digitalgust/miniJVM",
+      "description": "Develop iOS Android app in java, Cross platform java virtual machine , the minimal jvm .",
+      "platforms": [
+        "android",
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "C",
+      "stars": 404,
+      "forks": 105,
+      "license": "NOASSERTION",
+      "last_pushed_at": "2026-05-12T04:07:15Z",
+      "reason": "Matched \"mini game\" as a android, game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 14
+    },
+    {
+      "date_found": "2026-06-17",
+      "id": 181687869,
+      "full_name": "wechat-miniprogram/minigame-api-typings",
+      "name": "minigame-api-typings",
+      "url": "https://github.com/wechat-miniprogram/minigame-api-typings",
+      "description": "Type definitions for APIs of Wechat Mini Game in TypeScript",
+      "platforms": [
+        "game",
+        "mini-program"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "TypeScript",
+      "stars": 161,
+      "forks": 28,
+      "license": "MIT",
+      "last_pushed_at": "2026-04-22T07:46:40Z",
+      "reason": "Matched \"mini game\" as a game, mini-program project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 14
     }
   ]
 }

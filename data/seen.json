@@ -1,5 +1,25 @@
 {
   "repositories": {
+    "24142395": {
+      "full_name": "js13kGames/extreme-mini-massacre",
+      "first_seen_at": "2026-06-17",
+      "source_query": "mini game"
+    },
+    "101243754": {
+      "full_name": "digitalgust/miniJVM",
+      "first_seen_at": "2026-06-17",
+      "source_query": "mini game"
+    },
+    "181687869": {
+      "full_name": "wechat-miniprogram/minigame-api-typings",
+      "first_seen_at": "2026-06-17",
+      "source_query": "mini game"
+    },
+    "332417024": {
+      "full_name": "HeXavi8/Bugu-Sport",
+      "first_seen_at": "2026-06-17",
+      "source_query": "wechat mini program"
+    },
     "610304135": {
       "full_name": "zxp19821005/My_AUR_Files",
       "first_seen_at": "2026-06-17",
@@ -9,6 +29,41 @@
       "full_name": "mario206/UnityReleaseNotes-latest",
       "first_seen_at": "2026-06-17",
       "source_query": "floating widget"
+    },
+    "718258944": {
+      "full_name": "DalekCraft2/Shimeji-Desktop",
+      "first_seen_at": "2026-06-17",
+      "source_query": "desktop pet"
+    },
+    "1000874106": {
+      "full_name": "liwenka1/bongo-cat-next",
+      "first_seen_at": "2026-06-17",
+      "source_query": "desktop pet"
+    },
+    "1074584672": {
+      "full_name": "Marksonthegamer/Mate-Engine-Linux-Port",
+      "first_seen_at": "2026-06-17",
+      "source_query": "desktop pet"
+    },
+    "1132595909": {
+      "full_name": "qingchenyouforcc/NeurolingsCE",
+      "first_seen_at": "2026-06-17",
+      "source_query": "desktop pet"
+    },
+    "1141658405": {
+      "full_name": "yetone/confirmo-releases",
+      "first_seen_at": "2026-06-17",
+      "source_query": "desktop pet"
+    },
+    "1155507082": {
+      "full_name": "x380kkm/Live2DPet",
+      "first_seen_at": "2026-06-17",
+      "source_query": "desktop pet"
+    },
+    "1161357377": {
+      "full_name": "PeonPing/peon-pet",
+      "first_seen_at": "2026-06-17",
+      "source_query": "desktop pet"
     },
     "1172991789": {
       "full_name": "RYOITABASHI/Shelly",
@@ -30,10 +85,55 @@
       "first_seen_at": "2026-06-17",
       "source_query": "tray app"
     },
+    "1206073773": {
+      "full_name": "DonkeyKing01/BriefyPet",
+      "first_seen_at": "2026-06-17",
+      "source_query": "desktop pet"
+    },
     "1226256828": {
       "full_name": "Cmochance/codex-app-transfer",
       "first_seen_at": "2026-06-17",
       "source_query": "tray app"
+    },
+    "1232917466": {
+      "full_name": "KebeliSamet0/clawd",
+      "first_seen_at": "2026-06-17",
+      "source_query": "desktop pet"
+    },
+    "1233543737": {
+      "full_name": "dylan-labs/nom-pet",
+      "first_seen_at": "2026-06-17",
+      "source_query": "desktop pet"
+    },
+    "1241621727": {
+      "full_name": "bleeeet/TermiPet",
+      "first_seen_at": "2026-06-17",
+      "source_query": "desktop pet"
+    },
+    "1242077982": {
+      "full_name": "ppXD/petpet",
+      "first_seen_at": "2026-06-17",
+      "source_query": "desktop pet"
+    },
+    "1242473355": {
+      "full_name": "OpenBMB/MiniCPM-Desk-Pet",
+      "first_seen_at": "2026-06-17",
+      "source_query": "desktop pet"
+    },
+    "1253176096": {
+      "full_name": "Wanduforl/MacArkPet",
+      "first_seen_at": "2026-06-17",
+      "source_query": "desktop pet"
+    },
+    "1257524396": {
+      "full_name": "momori777/Artemis",
+      "first_seen_at": "2026-06-17",
+      "source_query": "desktop pet"
+    },
+    "1263615935": {
+      "full_name": "dee-dee-catorce/deskpublic",
+      "first_seen_at": "2026-06-17",
+      "source_query": "desktop pet"
     }
   }
 }
