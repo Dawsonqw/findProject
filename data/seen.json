@@ -5,6 +5,16 @@
       "first_seen_at": "2026-06-17",
       "source_query": "pomodoro widget"
     },
+    "644399303": {
+      "full_name": "mario206/UnityReleaseNotes-latest",
+      "first_seen_at": "2026-06-17",
+      "source_query": "floating widget"
+    },
+    "1172991789": {
+      "full_name": "RYOITABASHI/Shelly",
+      "first_seen_at": "2026-06-17",
+      "source_query": "kotlin app"
+    },
     "1178039434": {
       "full_name": "ales-drnz/mpv_audio_kit",
       "first_seen_at": "2026-06-17",
@@ -17,6 +27,11 @@
     },
     "1203570172": {
       "full_name": "biggiesmallcap-blip/NOORwave",
+      "first_seen_at": "2026-06-17",
+      "source_query": "tray app"
+    },
+    "1226256828": {
+      "full_name": "Cmochance/codex-app-transfer",
       "first_seen_at": "2026-06-17",
       "source_query": "tray app"
     }

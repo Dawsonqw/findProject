@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T13:11:46.516Z",
-  "total_count": 4,
+  "generated_at": "2026-06-17T13:17:34.175Z",
+  "total_count": 7,
   "projects": [
     {
       "date_found": "2026-06-17",
@@ -87,6 +87,71 @@
       "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
       "source_query": "tray app",
       "score": 5
+    },
+    {
+      "date_found": "2026-06-17",
+      "id": 1226256828,
+      "full_name": "Cmochance/codex-app-transfer",
+      "name": "codex-app-transfer",
+      "url": "https://github.com/Cmochance/codex-app-transfer",
+      "description": "Local desktop gateway that translates OpenAI Codex CLI's Responses API into Chat Completions for Kimi / DeepSeek / Zhipu GLM / Bailian and other OpenAI-compatible providers.",
+      "platforms": [
+        "desktop"
+      ],
+      "categories": [],
+      "language": "Rust",
+      "stars": 258,
+      "forks": 20,
+      "license": "MIT",
+      "last_pushed_at": "2026-06-17T13:16:09Z",
+      "reason": "Matched \"tray app\" as a desktop project with interesting app signals.",
+      "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
+      "source_query": "tray app",
+      "score": 9
+    },
+    {
+      "date_found": "2026-06-17",
+      "id": 1172991789,
+      "full_name": "RYOITABASHI/Shelly",
+      "name": "Shelly",
+      "url": "https://github.com/RYOITABASHI/Shelly",
+      "description": "AI-powered chat-first terminal IDE for Android. Built entirely on a phone, by someone who can't write code.",
+      "platforms": [
+        "android"
+      ],
+      "categories": [],
+      "language": "TypeScript",
+      "stars": 30,
+      "forks": 4,
+      "license": "GPL-3.0",
+      "last_pushed_at": "2026-06-17T13:16:00Z",
+      "reason": "Matched \"kotlin app\" as a android project with interesting app signals.",
+      "dev_idea": "Wrap the idea as a focused Android app with friendly onboarding for non-technical users.",
+      "source_query": "kotlin app",
+      "score": 9
+    },
+    {
+      "date_found": "2026-06-17",
+      "id": 644399303,
+      "full_name": "mario206/UnityReleaseNotes-latest",
+      "name": "UnityReleaseNotes-latest",
+      "url": "https://github.com/mario206/UnityReleaseNotes-latest",
+      "description": "",
+      "platforms": [
+        "tool"
+      ],
+      "categories": [
+        "productivity"
+      ],
+      "language": "HTML",
+      "stars": 9,
+      "forks": 1,
+      "license": "MIT",
+      "last_pushed_at": "2026-06-17T13:14:04Z",
+      "reason": "Matched \"floating widget\" as a tool project with productivity signals.",
+      "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
+      "source_query": "floating widget",
+      "score": 0
     }
   ]
 }
