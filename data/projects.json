@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T13:23:17.425Z",
-  "total_count": 27,
+  "generated_at": "2026-06-18T07:14:22.472Z",
+  "total_count": 47,
   "projects": [
     {
       "date_found": "2026-06-17",
@@ -641,6 +641,493 @@
       "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
       "source_query": "mini game",
       "score": 14
+    },
+    {
+      "date_found": "2026-06-18",
+      "id": 1199312423,
+      "full_name": "4682B4LEE/number-bomb-public",
+      "name": "number-bomb-public",
+      "url": "https://github.com/4682B4LEE/number-bomb-public",
+      "description": "小红书上最火的猜数字微信小程序游戏「谁输谁洗碗」开源啦，上线一个月累计注册用户超 3w，支持双人对战的猜谜游戏，包含猜数字、猜颜色、每日挑战和残局解谜等多种游戏模式。The most popular number guessing WeChat mini-program game \"number-bomb\" on Xiaohongshu is now open source! ",
+      "platforms": [
+        "game",
+        "mini-program"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "JavaScript",
+      "stars": 53,
+      "forks": 18,
+      "license": "",
+      "last_pushed_at": "2026-04-03T02:18:54Z",
+      "reason": "Matched \"wechat mini program\" as a game, mini-program project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "wechat mini program",
+      "score": 14
+    },
+    {
+      "date_found": "2026-06-18",
+      "id": 1234811496,
+      "full_name": "devnomad-byte/petdex-cc",
+      "name": "petdex-cc",
+      "url": "https://github.com/devnomad-byte/petdex-cc",
+      "description": "Desktop pet companion for Claude Code — animated pets that react to your coding in real-time",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "TypeScript",
+      "stars": 15,
+      "forks": 1,
+      "license": "MIT",
+      "last_pushed_at": "2026-05-14T17:49:45Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 13
+    },
+    {
+      "date_found": "2026-06-18",
+      "id": 1260969825,
+      "full_name": "sunziqin/XunPet",
+      "name": "XunPet",
+      "url": "https://github.com/sunziqin/XunPet",
+      "description": "Windows-first Electron + Live2D AI desktop pet",
+      "platforms": [
+        "desktop",
+        "game",
+        "windows"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "TypeScript",
+      "stars": 9,
+      "forks": 2,
+      "license": "GPL-3.0",
+      "last_pushed_at": "2026-06-14T18:33:11Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game, windows project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 13
+    },
+    {
+      "date_found": "2026-06-18",
+      "id": 1229673797,
+      "full_name": "Jane-xiaoer/xiaoer-hammerspoon-pet",
+      "name": "xiaoer-hammerspoon-pet",
+      "url": "https://github.com/Jane-xiaoer/xiaoer-hammerspoon-pet",
+      "description": "A watercolor Hammerspoon desktop pet with pomodoro, reminders, todo celebrations, and customizable animation states.",
+      "platforms": [
+        "desktop",
+        "game",
+        "tool"
+      ],
+      "categories": [
+        "pet",
+        "productivity"
+      ],
+      "language": "Lua",
+      "stars": 8,
+      "forks": 1,
+      "license": "MIT",
+      "last_pushed_at": "2026-05-30T08:57:30Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game, tool project with pet, productivity signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 13
+    },
+    {
+      "date_found": "2026-06-18",
+      "id": 1237535695,
+      "full_name": "edwin-hao-ai/MouseClaw",
+      "name": "MouseClaw",
+      "url": "https://github.com/edwin-hao-ai/MouseClaw",
+      "description": "🦞 Pixel-art desktop AI pet for macOS · hold-to-speak · screenshots + voice → Claude / Codex / Hermes · clipboard hub · voice IME · computer-use · browser-use · open source",
+      "platforms": [
+        "desktop",
+        "game",
+        "tool"
+      ],
+      "categories": [
+        "pet",
+        "productivity",
+        "visual"
+      ],
+      "language": "Rust",
+      "stars": 7,
+      "forks": 0,
+      "license": "NOASSERTION",
+      "last_pushed_at": "2026-05-26T07:54:16Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game, tool project with pet, productivity, visual signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 13
+    },
+    {
+      "date_found": "2026-06-18",
+      "id": 1265912764,
+      "full_name": "Prince-cjml/xiaobei-pet-release",
+      "name": "xiaobei-pet-release",
+      "url": "https://github.com/Prince-cjml/xiaobei-pet-release",
+      "description": "This is the release repository for Xiaobei Desktop Pet, a desktop companion for PKU students. ",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "Python",
+      "stars": 7,
+      "forks": 0,
+      "license": "",
+      "last_pushed_at": "2026-06-11T07:48:08Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 13
+    },
+    {
+      "date_found": "2026-06-18",
+      "id": 1043156119,
+      "full_name": "xiaoSun1997/xsun_desktop_pet",
+      "name": "xsun_desktop_pet",
+      "url": "https://github.com/xiaoSun1997/xsun_desktop_pet",
+      "description": "桌宠，desktop-Pet",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "TypeScript",
+      "stars": 7,
+      "forks": 0,
+      "license": "Apache-2.0",
+      "last_pushed_at": "2026-06-05T09:09:12Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 13
+    },
+    {
+      "date_found": "2026-06-18",
+      "id": 1118918636,
+      "full_name": "liuchunchun1012/Meowpal",
+      "name": "Meowpal",
+      "url": "https://github.com/liuchunchun1012/Meowpal",
+      "description": "🐱 Cute, personalized, AI-powered macOS pixel desktop pet ｜一个可爱的、可以个人定制的、AI 驱动的 macOS 像素风桌面宠物 | ",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "pet",
+        "visual"
+      ],
+      "language": "Swift",
+      "stars": 6,
+      "forks": 0,
+      "license": "MIT",
+      "last_pushed_at": "2026-06-03T19:15:06Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with pet, visual signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 13
+    },
+    {
+      "date_found": "2026-06-18",
+      "id": 1255730929,
+      "full_name": "logitropic/claude-tweaks",
+      "name": "claude-tweaks",
+      "url": "https://github.com/logitropic/claude-tweaks",
+      "description": "Reversible macOS patcher for Claude Desktop ASAR tweaks, including third-party inference routing, Computer Use experiments, and an optional desktop pet overlay.",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "TypeScript",
+      "stars": 6,
+      "forks": 1,
+      "license": "MIT",
+      "last_pushed_at": "2026-06-10T08:10:37Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 13
+    },
+    {
+      "date_found": "2026-06-18",
+      "id": 1235258060,
+      "full_name": "north-cell/lulu_DeskTopPet",
+      "name": "lulu_DeskTopPet",
+      "url": "https://github.com/north-cell/lulu_DeskTopPet",
+      "description": "水豚噜噜桌面宠物。一个 Windows 优先的小型桌宠应用。",
+      "platforms": [
+        "desktop",
+        "game",
+        "windows"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "Python",
+      "stars": 6,
+      "forks": 0,
+      "license": "",
+      "last_pushed_at": "2026-05-16T07:24:20Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game, windows project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 13
+    },
+    {
+      "date_found": "2026-06-18",
+      "id": 1231154986,
+      "full_name": "xianshang33/claude-pets",
+      "name": "claude-pets",
+      "url": "https://github.com/xianshang33/claude-pets",
+      "description": "🐾 Claude Pets brings Codex-style desktop companions to Claude Code, with local hooks, animated pets, and permission controls.",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "TypeScript",
+      "stars": 6,
+      "forks": 0,
+      "license": "MIT",
+      "last_pushed_at": "2026-05-08T12:44:43Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 13
+    },
+    {
+      "date_found": "2026-06-18",
+      "id": 1227211046,
+      "full_name": "zixuanzhou0-ai/codex-pet-director",
+      "name": "codex-pet-director",
+      "url": "https://github.com/zixuanzhou0-ai/codex-pet-director",
+      "description": "A Chinese-first Codex skill for creating customized official Codex desktop pets.",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "Python",
+      "stars": 6,
+      "forks": 0,
+      "license": "MIT",
+      "last_pushed_at": "2026-05-09T20:31:29Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 13
+    },
+    {
+      "date_found": "2026-06-18",
+      "id": 1155807467,
+      "full_name": "AlexWS12/ReFocus",
+      "name": "ReFocus",
+      "url": "https://github.com/AlexWS12/ReFocus",
+      "description": "ReFocus is a desktop focus coach that uses your webcam to catch distractions in real time and brings you back on track through a friendly virtual pet companion. Everything runs completely locally, so your data never leaves your computer. Stay focused, level up, unlock new pets, and track your progress through a built-in analytics dashboard.",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "Python",
+      "stars": 5,
+      "forks": 0,
+      "license": "",
+      "last_pushed_at": "2026-05-07T20:52:42Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 13
+    },
+    {
+      "date_found": "2026-06-18",
+      "id": 1249996553,
+      "full_name": "DataAxeagle/DockPetWin-Aemeath",
+      "name": "DockPetWin-Aemeath",
+      "url": "https://github.com/DataAxeagle/DockPetWin-Aemeath",
+      "description": "A Windows desktop companion app featuring Aemeath from Wuthering Waves, with AI chat, long-term memory, reminders, and an interactive cozy room life system.",
+      "platforms": [
+        "desktop",
+        "game",
+        "windows"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "C#",
+      "stars": 5,
+      "forks": 0,
+      "license": "NOASSERTION",
+      "last_pushed_at": "2026-06-04T14:39:30Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game, windows project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 13
+    },
+    {
+      "date_found": "2026-06-18",
+      "id": 1251953390,
+      "full_name": "shngboe-png/mitsuha-pet",
+      "name": "mitsuha-pet",
+      "url": "https://github.com/shngboe-png/mitsuha-pet",
+      "description": "Pixel-art desktop pet featuring Mitsuha Miyamizu from 'Your Name' (君の名は) — a tiny companion that lives on your desktop",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "pet",
+        "visual"
+      ],
+      "language": "JavaScript",
+      "stars": 5,
+      "forks": 0,
+      "license": "MIT",
+      "last_pushed_at": "2026-05-28T03:58:06Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with pet, visual signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 13
+    },
+    {
+      "date_found": "2026-06-18",
+      "id": 1264956388,
+      "full_name": "YizhengWw/HachimoDock",
+      "name": "HachimoDock",
+      "url": "https://github.com/YizhengWw/HachimoDock",
+      "description": "A desktop pet that reacts to your Claude Code sessions in real-time — thinking, typing,  juggling, sleeping, and more.",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "JavaScript",
+      "stars": 5,
+      "forks": 1,
+      "license": "AGPL-3.0",
+      "last_pushed_at": "2026-06-15T05:11:19Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 13
+    },
+    {
+      "date_found": "2026-06-18",
+      "id": 27069980,
+      "full_name": "tangziwen/CubeMiniGame",
+      "name": "CubeMiniGame",
+      "url": "https://github.com/tangziwen/CubeMiniGame",
+      "description": "HomeBrew C++ 3D Game Engine based on OpenGL & Vulkan",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "C++",
+      "stars": 356,
+      "forks": 44,
+      "license": "MIT",
+      "last_pushed_at": "2026-06-14T11:09:33Z",
+      "reason": "Matched \"mini game\" as a game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 11
+    },
+    {
+      "date_found": "2026-06-18",
+      "id": 746792392,
+      "full_name": "MaximilianAdF/NoPixel-MiniGames-4.0",
+      "name": "NoPixel-MiniGames-4.0",
+      "url": "https://github.com/MaximilianAdF/NoPixel-MiniGames-4.0",
+      "description": "A web-based project designed to replicate/build similar \"hacking\" challenges to those that can be found on the NoPixel 4.0 FiveM Server. Constructed using React, Next.js, with TailwindCSS, TypeScript, HTML & CSS. ↓ Deployed to Vercel ↓",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game",
+        "visual"
+      ],
+      "language": "TypeScript",
+      "stars": 129,
+      "forks": 61,
+      "license": "",
+      "last_pushed_at": "2026-06-17T22:07:57Z",
+      "reason": "Matched \"mini game\" as a game project with game, visual signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 11
+    },
+    {
+      "date_found": "2026-06-18",
+      "id": 535476195,
+      "full_name": "wifi-left/Map-MiniGames",
+      "name": "Map-MiniGames",
+      "url": "https://github.com/wifi-left/Map-MiniGames",
+      "description": "一个Minecraft 小游戏地图",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "mcfunction",
+      "stars": 104,
+      "forks": 6,
+      "license": "",
+      "last_pushed_at": "2026-06-14T11:26:36Z",
+      "reason": "Matched \"mini game\" as a game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 11
+    },
+    {
+      "date_found": "2026-06-18",
+      "id": 52138333,
+      "full_name": "changnet/MServer",
+      "name": "MServer",
+      "url": "https://github.com/changnet/MServer",
+      "description": "Mini Distributed Game Server",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "Lua",
+      "stars": 88,
+      "forks": 36,
+      "license": "",
+      "last_pushed_at": "2026-06-16T08:14:06Z",
+      "reason": "Matched \"mini game\" as a game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 11
     }
   ]
 }

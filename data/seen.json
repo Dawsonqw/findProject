@@ -5,6 +5,16 @@
       "first_seen_at": "2026-06-17",
       "source_query": "mini game"
     },
+    "27069980": {
+      "full_name": "tangziwen/CubeMiniGame",
+      "first_seen_at": "2026-06-18",
+      "source_query": "mini game"
+    },
+    "52138333": {
+      "full_name": "changnet/MServer",
+      "first_seen_at": "2026-06-18",
+      "source_query": "mini game"
+    },
     "101243754": {
       "full_name": "digitalgust/miniJVM",
       "first_seen_at": "2026-06-17",
@@ -19,6 +29,11 @@
       "full_name": "HeXavi8/Bugu-Sport",
       "first_seen_at": "2026-06-17",
       "source_query": "wechat mini program"
+    },
+    "535476195": {
+      "full_name": "wifi-left/Map-MiniGames",
+      "first_seen_at": "2026-06-18",
+      "source_query": "mini game"
     },
     "610304135": {
       "full_name": "zxp19821005/My_AUR_Files",
@@ -35,14 +50,29 @@
       "first_seen_at": "2026-06-17",
       "source_query": "desktop pet"
     },
+    "746792392": {
+      "full_name": "MaximilianAdF/NoPixel-MiniGames-4.0",
+      "first_seen_at": "2026-06-18",
+      "source_query": "mini game"
+    },
     "1000874106": {
       "full_name": "liwenka1/bongo-cat-next",
       "first_seen_at": "2026-06-17",
       "source_query": "desktop pet"
     },
+    "1043156119": {
+      "full_name": "xiaoSun1997/xsun_desktop_pet",
+      "first_seen_at": "2026-06-18",
+      "source_query": "desktop pet"
+    },
     "1074584672": {
       "full_name": "Marksonthegamer/Mate-Engine-Linux-Port",
       "first_seen_at": "2026-06-17",
+      "source_query": "desktop pet"
+    },
+    "1118918636": {
+      "full_name": "liuchunchun1012/Meowpal",
+      "first_seen_at": "2026-06-18",
       "source_query": "desktop pet"
     },
     "1132595909": {
@@ -58,6 +88,11 @@
     "1155507082": {
       "full_name": "x380kkm/Live2DPet",
       "first_seen_at": "2026-06-17",
+      "source_query": "desktop pet"
+    },
+    "1155807467": {
+      "full_name": "AlexWS12/ReFocus",
+      "first_seen_at": "2026-06-18",
       "source_query": "desktop pet"
     },
     "1161357377": {
@@ -80,6 +115,11 @@
       "first_seen_at": "2026-06-17",
       "source_query": "tray app"
     },
+    "1199312423": {
+      "full_name": "4682B4LEE/number-bomb-public",
+      "first_seen_at": "2026-06-18",
+      "source_query": "wechat mini program"
+    },
     "1203570172": {
       "full_name": "biggiesmallcap-blip/NOORwave",
       "first_seen_at": "2026-06-17",
@@ -95,6 +135,21 @@
       "first_seen_at": "2026-06-17",
       "source_query": "tray app"
     },
+    "1227211046": {
+      "full_name": "zixuanzhou0-ai/codex-pet-director",
+      "first_seen_at": "2026-06-18",
+      "source_query": "desktop pet"
+    },
+    "1229673797": {
+      "full_name": "Jane-xiaoer/xiaoer-hammerspoon-pet",
+      "first_seen_at": "2026-06-18",
+      "source_query": "desktop pet"
+    },
+    "1231154986": {
+      "full_name": "xianshang33/claude-pets",
+      "first_seen_at": "2026-06-18",
+      "source_query": "desktop pet"
+    },
     "1232917466": {
       "full_name": "KebeliSamet0/clawd",
       "first_seen_at": "2026-06-17",
@@ -103,6 +158,21 @@
     "1233543737": {
       "full_name": "dylan-labs/nom-pet",
       "first_seen_at": "2026-06-17",
+      "source_query": "desktop pet"
+    },
+    "1234811496": {
+      "full_name": "devnomad-byte/petdex-cc",
+      "first_seen_at": "2026-06-18",
+      "source_query": "desktop pet"
+    },
+    "1235258060": {
+      "full_name": "north-cell/lulu_DeskTopPet",
+      "first_seen_at": "2026-06-18",
+      "source_query": "desktop pet"
+    },
+    "1237535695": {
+      "full_name": "edwin-hao-ai/MouseClaw",
+      "first_seen_at": "2026-06-18",
       "source_query": "desktop pet"
     },
     "1241621727": {
@@ -120,9 +190,24 @@
       "first_seen_at": "2026-06-17",
       "source_query": "desktop pet"
     },
+    "1249996553": {
+      "full_name": "DataAxeagle/DockPetWin-Aemeath",
+      "first_seen_at": "2026-06-18",
+      "source_query": "desktop pet"
+    },
+    "1251953390": {
+      "full_name": "shngboe-png/mitsuha-pet",
+      "first_seen_at": "2026-06-18",
+      "source_query": "desktop pet"
+    },
     "1253176096": {
       "full_name": "Wanduforl/MacArkPet",
       "first_seen_at": "2026-06-17",
+      "source_query": "desktop pet"
+    },
+    "1255730929": {
+      "full_name": "logitropic/claude-tweaks",
+      "first_seen_at": "2026-06-18",
       "source_query": "desktop pet"
     },
     "1257524396": {
@@ -130,9 +215,24 @@
       "first_seen_at": "2026-06-17",
       "source_query": "desktop pet"
     },
+    "1260969825": {
+      "full_name": "sunziqin/XunPet",
+      "first_seen_at": "2026-06-18",
+      "source_query": "desktop pet"
+    },
     "1263615935": {
       "full_name": "dee-dee-catorce/deskpublic",
       "first_seen_at": "2026-06-17",
+      "source_query": "desktop pet"
+    },
+    "1264956388": {
+      "full_name": "YizhengWw/HachimoDock",
+      "first_seen_at": "2026-06-18",
+      "source_query": "desktop pet"
+    },
+    "1265912764": {
+      "full_name": "Prince-cjml/xiaobei-pet-release",
+      "first_seen_at": "2026-06-18",
       "source_query": "desktop pet"
     }
   }
