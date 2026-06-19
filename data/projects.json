@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-18T07:14:22.472Z",
-  "total_count": 47,
+  "generated_at": "2026-06-19T07:34:02.891Z",
+  "total_count": 67,
   "projects": [
     {
       "date_found": "2026-06-17",
@@ -1128,6 +1128,450 @@
       "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
       "source_query": "mini game",
       "score": 11
+    },
+    {
+      "date_found": "2026-06-19",
+      "id": 862315404,
+      "full_name": "endlessm/moddable-platformer",
+      "name": "moddable-platformer",
+      "url": "https://github.com/endlessm/moddable-platformer",
+      "description": "Mini moddable platform game to ease the Godot learning curve",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "GDScript",
+      "stars": 77,
+      "forks": 28,
+      "license": "MIT",
+      "last_pushed_at": "2026-06-11T12:58:59Z",
+      "reason": "Matched \"mini game\" as a game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 11
+    },
+    {
+      "date_found": "2026-06-19",
+      "id": 387269543,
+      "full_name": "Kirilllive/Fifteen_puzzle_maker",
+      "name": "Fifteen_puzzle_maker",
+      "url": "https://github.com/Kirilllive/Fifteen_puzzle_maker",
+      "description": "This is a classic mini-game Fifteen Sliding Puzzle. This option works in the browser, in it you need to specify a regular picture, the program itself will cut the picture into squares and mix them.",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "HTML",
+      "stars": 76,
+      "forks": 24,
+      "license": "MIT",
+      "last_pushed_at": "2026-05-18T04:53:40Z",
+      "reason": "Matched \"mini game\" as a game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 11
+    },
+    {
+      "date_found": "2026-06-19",
+      "id": 564588669,
+      "full_name": "our-mini-games/mini-games",
+      "name": "mini-games",
+      "url": "https://github.com/our-mini-games/mini-games",
+      "description": "A collection of small games(mine sweeper 扫雷, greedy snake 贪吃蛇, link game 连连看, tetris 俄罗斯方块, spider-solitaire 蜘蛛纸牌, Chinese chess 中国象棋, klotski 华容道 arkanoid 打砖块 and 2048)",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "TypeScript",
+      "stars": 44,
+      "forks": 7,
+      "license": "",
+      "last_pushed_at": "2026-05-19T08:05:02Z",
+      "reason": "Matched \"mini game\" as a game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 11
+    },
+    {
+      "date_found": "2026-06-19",
+      "id": 577161163,
+      "full_name": "yanfengliu/python_mini_metro",
+      "name": "python_mini_metro",
+      "url": "https://github.com/yanfengliu/python_mini_metro",
+      "description": "Python implementation for Mini Metro. Can be used for reinforcement learning.",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "Python",
+      "stars": 36,
+      "forks": 9,
+      "license": "MIT",
+      "last_pushed_at": "2026-06-13T03:18:47Z",
+      "reason": "Matched \"mini game\" as a game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 11
+    },
+    {
+      "date_found": "2026-06-19",
+      "id": 501352740,
+      "full_name": "openfoodfacts/hunger-games",
+      "name": "hunger-games",
+      "url": "https://github.com/openfoodfacts/hunger-games",
+      "description": "One click Mini-Games for Open Food Facts",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "TypeScript",
+      "stars": 31,
+      "forks": 69,
+      "license": "AGPL-3.0",
+      "last_pushed_at": "2026-06-17T10:41:48Z",
+      "reason": "Matched \"mini game\" as a game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 11
+    },
+    {
+      "date_found": "2026-06-19",
+      "id": 441153615,
+      "full_name": "L3P3/minicraft",
+      "name": "minicraft",
+      "url": "https://github.com/L3P3/minicraft",
+      "description": "A voxel-based 3d game, entirely in your browser!",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "JavaScript",
+      "stars": 28,
+      "forks": 5,
+      "license": "",
+      "last_pushed_at": "2026-05-27T18:10:15Z",
+      "reason": "Matched \"mini game\" as a game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 11
+    },
+    {
+      "date_found": "2026-06-19",
+      "id": 917836896,
+      "full_name": "aiyangtongxue/wechat-whack-a-mole",
+      "name": "wechat-whack-a-mole",
+      "url": "https://github.com/aiyangtongxue/wechat-whack-a-mole",
+      "description": "🐹 一个可爱的微信小程序打地鼠游戏 | A cute WeChat Mini Program whack-a-mole game",
+      "platforms": [
+        "game",
+        "mini-program"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "JavaScript",
+      "stars": 9,
+      "forks": 0,
+      "license": "",
+      "last_pushed_at": "2025-01-25T22:14:15Z",
+      "reason": "Matched \"wechat mini program\" as a game, mini-program project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "wechat mini program",
+      "score": 10
+    },
+    {
+      "date_found": "2026-06-19",
+      "id": 735564186,
+      "full_name": "galacean/appx-adapter",
+      "name": "appx-adapter",
+      "url": "https://github.com/galacean/appx-adapter",
+      "description": "Help adapt the Galacean Effects to WeChat/Alipay Mini Programs/Mini Games, etc.",
+      "platforms": [
+        "game",
+        "mini-program"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "TypeScript",
+      "stars": 8,
+      "forks": 1,
+      "license": "MIT",
+      "last_pushed_at": "2025-11-18T03:08:51Z",
+      "reason": "Matched \"wechat mini program\" as a game, mini-program project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "wechat mini program",
+      "score": 10
+    },
+    {
+      "date_found": "2026-06-19",
+      "id": 609345537,
+      "full_name": "eliasku/ekx",
+      "name": "ekx",
+      "url": "https://github.com/eliasku/ekx",
+      "description": "toy game engine",
+      "platforms": [
+        "android",
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "C",
+      "stars": 5,
+      "forks": 1,
+      "license": "ISC",
+      "last_pushed_at": "2023-06-17T07:35:08Z",
+      "reason": "Matched \"android toy\" as a android, game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "android toy",
+      "score": 10
+    },
+    {
+      "date_found": "2026-06-19",
+      "id": 1127661424,
+      "full_name": "programmersd21/mini_platformer",
+      "name": "mini_platformer",
+      "url": "https://github.com/programmersd21/mini_platformer",
+      "description": "🏃‍➡️ A vibrant, action-packed 2D platformer built with Python and Arcade ✨",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "Python",
+      "stars": 5,
+      "forks": 0,
+      "license": "",
+      "last_pushed_at": "2026-06-11T15:07:28Z",
+      "reason": "Matched \"mini game\" as a desktop, game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 10
+    },
+    {
+      "date_found": "2026-06-19",
+      "id": 148602493,
+      "full_name": "JoneXiong/oejia_weshop",
+      "name": "oejia_weshop",
+      "url": "https://github.com/JoneXiong/oejia_weshop",
+      "description": "odoo 微信小程序商城模块  (WeChat Mini Program for Odoo)",
+      "platforms": [
+        "mini-program"
+      ],
+      "categories": [],
+      "language": "Python",
+      "stars": 289,
+      "forks": 171,
+      "license": "",
+      "last_pushed_at": "2024-09-25T07:15:25Z",
+      "reason": "Matched \"wechat mini program\" as a mini-program project with interesting app signals.",
+      "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
+      "source_query": "wechat mini program",
+      "score": 9
+    },
+    {
+      "date_found": "2026-06-19",
+      "id": 1096156168,
+      "full_name": "yfmeii/weapp-dev-mcp",
+      "name": "weapp-dev-mcp",
+      "url": "https://github.com/yfmeii/weapp-dev-mcp",
+      "description": "FastMCP server for automating WeChat Mini Program developer tooling",
+      "platforms": [
+        "mini-program"
+      ],
+      "categories": [],
+      "language": "TypeScript",
+      "stars": 156,
+      "forks": 23,
+      "license": "",
+      "last_pushed_at": "2026-06-01T12:55:12Z",
+      "reason": "Matched \"wechat mini program\" as a mini-program project with interesting app signals.",
+      "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
+      "source_query": "wechat mini program",
+      "score": 9
+    },
+    {
+      "date_found": "2026-06-19",
+      "id": 416974516,
+      "full_name": "Yat3s/life-balance",
+      "name": "life-balance",
+      "url": "https://github.com/Yat3s/life-balance",
+      "description": "A WeChat mini-program tailored for Microsoft employees to improve their daily life activities.",
+      "platforms": [
+        "mini-program"
+      ],
+      "categories": [],
+      "language": "JavaScript",
+      "stars": 102,
+      "forks": 9,
+      "license": "",
+      "last_pushed_at": "2025-06-17T03:05:50Z",
+      "reason": "Matched \"wechat mini program\" as a mini-program project with interesting app signals.",
+      "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
+      "source_query": "wechat mini program",
+      "score": 9
+    },
+    {
+      "date_found": "2026-06-19",
+      "id": 1012965092,
+      "full_name": "YUHAO-corn/negative_review_helper",
+      "name": "negative_review_helper",
+      "url": "https://github.com/YUHAO-corn/negative_review_helper",
+      "description": "AI-powered assistant helping business owners professionally handle negative reviews. Features web & WeChat mini-program versions.",
+      "platforms": [
+        "mini-program"
+      ],
+      "categories": [],
+      "language": "JavaScript",
+      "stars": 82,
+      "forks": 9,
+      "license": "MIT",
+      "last_pushed_at": "2025-07-31T08:11:15Z",
+      "reason": "Matched \"wechat mini program\" as a mini-program project with interesting app signals.",
+      "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
+      "source_query": "wechat mini program",
+      "score": 9
+    },
+    {
+      "date_found": "2026-06-19",
+      "id": 345955935,
+      "full_name": "seladb/ToyVpn-PcapPlusPlus",
+      "name": "ToyVpn-PcapPlusPlus",
+      "url": "https://github.com/seladb/ToyVpn-PcapPlusPlus",
+      "description": "A demo app to show how PcapPlusPlus can be used in Android apps",
+      "platforms": [
+        "android"
+      ],
+      "categories": [],
+      "language": "Kotlin",
+      "stars": 35,
+      "forks": 17,
+      "license": "MIT",
+      "last_pushed_at": "2025-04-18T06:16:29Z",
+      "reason": "Matched \"android toy\" as a android project with interesting app signals.",
+      "dev_idea": "Wrap the idea as a focused Android app with friendly onboarding for non-technical users.",
+      "source_query": "android toy",
+      "score": 9
+    },
+    {
+      "date_found": "2026-06-19",
+      "id": 412171619,
+      "full_name": "fresns/client-demo-wechat",
+      "name": "client-demo-wechat",
+      "url": "https://github.com/fresns/client-demo-wechat",
+      "description": "Fresns Client for WeChat Mini Program",
+      "platforms": [
+        "mini-program"
+      ],
+      "categories": [],
+      "language": "JavaScript",
+      "stars": 27,
+      "forks": 9,
+      "license": "Apache-2.0",
+      "last_pushed_at": "2024-10-02T10:24:03Z",
+      "reason": "Matched \"wechat mini program\" as a mini-program project with interesting app signals.",
+      "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
+      "source_query": "wechat mini program",
+      "score": 9
+    },
+    {
+      "date_found": "2026-06-19",
+      "id": 133668730,
+      "full_name": "LiuKay/wechat_springboot",
+      "name": "wechat_springboot",
+      "url": "https://github.com/LiuKay/wechat_springboot",
+      "description": "Get started with WeChat mini-programs - 微信小程序入门",
+      "platforms": [
+        "mini-program"
+      ],
+      "categories": [],
+      "language": "Java",
+      "stars": 26,
+      "forks": 11,
+      "license": "",
+      "last_pushed_at": "2026-02-25T18:39:50Z",
+      "reason": "Matched \"wechat mini program\" as a mini-program project with interesting app signals.",
+      "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
+      "source_query": "wechat mini program",
+      "score": 9
+    },
+    {
+      "date_found": "2026-06-19",
+      "id": 393641318,
+      "full_name": "wnagchi/ani-weapp",
+      "name": "ani-weapp",
+      "url": "https://github.com/wnagchi/ani-weapp",
+      "description": "A WeChat mini program function encapsulation tool that connects communication between pages and components.",
+      "platforms": [
+        "mini-program"
+      ],
+      "categories": [],
+      "language": "JavaScript",
+      "stars": 26,
+      "forks": 4,
+      "license": "WTFPL",
+      "last_pushed_at": "2026-01-30T06:56:52Z",
+      "reason": "Matched \"wechat mini program\" as a mini-program project with interesting app signals.",
+      "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
+      "source_query": "wechat mini program",
+      "score": 9
+    },
+    {
+      "date_found": "2026-06-19",
+      "id": 541339012,
+      "full_name": "aldoKelvianto/ToysApp",
+      "name": "ToysApp",
+      "url": "https://github.com/aldoKelvianto/ToysApp",
+      "description": "Companion project for \"The Cost of Modularization\" presentation that demonstrates navigation, dependency management, dependency injection in a multimodule project.",
+      "platforms": [
+        "android"
+      ],
+      "categories": [],
+      "language": "Kotlin",
+      "stars": 23,
+      "forks": 2,
+      "license": "",
+      "last_pushed_at": "2025-08-22T14:23:16Z",
+      "reason": "Matched \"android toy\" as a android project with interesting app signals.",
+      "dev_idea": "Wrap the idea as a focused Android app with friendly onboarding for non-technical users.",
+      "source_query": "android toy",
+      "score": 9
+    },
+    {
+      "date_found": "2026-06-19",
+      "id": 1193379551,
+      "full_name": "The-niceU/LearningTools",
+      "name": "LearningTools",
+      "url": "https://github.com/The-niceU/LearningTools",
+      "description": "A lightweight WeChat Mini Program for Sichuan University, integrating campus tools like weather check, empty classroom query, campus map, notice board and personal center, to make campus life easier for students and staff.",
+      "platforms": [
+        "mini-program"
+      ],
+      "categories": [],
+      "language": "JavaScript",
+      "stars": 22,
+      "forks": 1,
+      "license": "",
+      "last_pushed_at": "2026-03-31T08:25:03Z",
+      "reason": "Matched \"wechat mini program\" as a mini-program project with interesting app signals.",
+      "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
+      "source_query": "wechat mini program",
+      "score": 9
     }
   ]
 }

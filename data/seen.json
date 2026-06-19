@@ -20,6 +20,16 @@
       "first_seen_at": "2026-06-17",
       "source_query": "mini game"
     },
+    "133668730": {
+      "full_name": "LiuKay/wechat_springboot",
+      "first_seen_at": "2026-06-19",
+      "source_query": "wechat mini program"
+    },
+    "148602493": {
+      "full_name": "JoneXiong/oejia_weshop",
+      "first_seen_at": "2026-06-19",
+      "source_query": "wechat mini program"
+    },
     "181687869": {
       "full_name": "wechat-miniprogram/minigame-api-typings",
       "first_seen_at": "2026-06-17",
@@ -30,10 +40,65 @@
       "first_seen_at": "2026-06-17",
       "source_query": "wechat mini program"
     },
+    "345955935": {
+      "full_name": "seladb/ToyVpn-PcapPlusPlus",
+      "first_seen_at": "2026-06-19",
+      "source_query": "android toy"
+    },
+    "387269543": {
+      "full_name": "Kirilllive/Fifteen_puzzle_maker",
+      "first_seen_at": "2026-06-19",
+      "source_query": "mini game"
+    },
+    "393641318": {
+      "full_name": "wnagchi/ani-weapp",
+      "first_seen_at": "2026-06-19",
+      "source_query": "wechat mini program"
+    },
+    "412171619": {
+      "full_name": "fresns/client-demo-wechat",
+      "first_seen_at": "2026-06-19",
+      "source_query": "wechat mini program"
+    },
+    "416974516": {
+      "full_name": "Yat3s/life-balance",
+      "first_seen_at": "2026-06-19",
+      "source_query": "wechat mini program"
+    },
+    "441153615": {
+      "full_name": "L3P3/minicraft",
+      "first_seen_at": "2026-06-19",
+      "source_query": "mini game"
+    },
+    "501352740": {
+      "full_name": "openfoodfacts/hunger-games",
+      "first_seen_at": "2026-06-19",
+      "source_query": "mini game"
+    },
     "535476195": {
       "full_name": "wifi-left/Map-MiniGames",
       "first_seen_at": "2026-06-18",
       "source_query": "mini game"
+    },
+    "541339012": {
+      "full_name": "aldoKelvianto/ToysApp",
+      "first_seen_at": "2026-06-19",
+      "source_query": "android toy"
+    },
+    "564588669": {
+      "full_name": "our-mini-games/mini-games",
+      "first_seen_at": "2026-06-19",
+      "source_query": "mini game"
+    },
+    "577161163": {
+      "full_name": "yanfengliu/python_mini_metro",
+      "first_seen_at": "2026-06-19",
+      "source_query": "mini game"
+    },
+    "609345537": {
+      "full_name": "eliasku/ekx",
+      "first_seen_at": "2026-06-19",
+      "source_query": "android toy"
     },
     "610304135": {
       "full_name": "zxp19821005/My_AUR_Files",
@@ -50,15 +115,35 @@
       "first_seen_at": "2026-06-17",
       "source_query": "desktop pet"
     },
+    "735564186": {
+      "full_name": "galacean/appx-adapter",
+      "first_seen_at": "2026-06-19",
+      "source_query": "wechat mini program"
+    },
     "746792392": {
       "full_name": "MaximilianAdF/NoPixel-MiniGames-4.0",
       "first_seen_at": "2026-06-18",
       "source_query": "mini game"
     },
+    "862315404": {
+      "full_name": "endlessm/moddable-platformer",
+      "first_seen_at": "2026-06-19",
+      "source_query": "mini game"
+    },
+    "917836896": {
+      "full_name": "aiyangtongxue/wechat-whack-a-mole",
+      "first_seen_at": "2026-06-19",
+      "source_query": "wechat mini program"
+    },
     "1000874106": {
       "full_name": "liwenka1/bongo-cat-next",
       "first_seen_at": "2026-06-17",
       "source_query": "desktop pet"
+    },
+    "1012965092": {
+      "full_name": "YUHAO-corn/negative_review_helper",
+      "first_seen_at": "2026-06-19",
+      "source_query": "wechat mini program"
     },
     "1043156119": {
       "full_name": "xiaoSun1997/xsun_desktop_pet",
@@ -70,10 +155,20 @@
       "first_seen_at": "2026-06-17",
       "source_query": "desktop pet"
     },
+    "1096156168": {
+      "full_name": "yfmeii/weapp-dev-mcp",
+      "first_seen_at": "2026-06-19",
+      "source_query": "wechat mini program"
+    },
     "1118918636": {
       "full_name": "liuchunchun1012/Meowpal",
       "first_seen_at": "2026-06-18",
       "source_query": "desktop pet"
+    },
+    "1127661424": {
+      "full_name": "programmersd21/mini_platformer",
+      "first_seen_at": "2026-06-19",
+      "source_query": "mini game"
     },
     "1132595909": {
       "full_name": "qingchenyouforcc/NeurolingsCE",
@@ -114,6 +209,11 @@
       "full_name": "simonlinuxcraft/claude-ai-desktop-app",
       "first_seen_at": "2026-06-17",
       "source_query": "tray app"
+    },
+    "1193379551": {
+      "full_name": "The-niceU/LearningTools",
+      "first_seen_at": "2026-06-19",
+      "source_query": "wechat mini program"
     },
     "1199312423": {
       "full_name": "4682B4LEE/number-bomb-public",
