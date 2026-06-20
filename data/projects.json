@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19T07:34:02.891Z",
-  "total_count": 67,
+  "generated_at": "2026-06-20T06:44:26.071Z",
+  "total_count": 87,
   "projects": [
     {
       "date_found": "2026-06-17",
@@ -1572,6 +1572,467 @@
       "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
       "source_query": "wechat mini program",
       "score": 9
+    },
+    {
+      "date_found": "2026-06-20",
+      "id": 251551747,
+      "full_name": "LiMingHuaGit/MengsNote",
+      "name": "MengsNote",
+      "url": "https://github.com/LiMingHuaGit/MengsNote",
+      "description": "A diary WeChat Mini Program developed for my girlfriend. Currently, it implements basic CRUD (Create, Read, Update, Delete) functionality.",
+      "platforms": [
+        "mini-program",
+        "tool"
+      ],
+      "categories": [
+        "productivity"
+      ],
+      "language": "JavaScript",
+      "stars": 21,
+      "forks": 2,
+      "license": "MulanPSL-2.0",
+      "last_pushed_at": "2026-06-01T07:49:24Z",
+      "reason": "Matched \"wechat mini program\" as a mini-program, tool project with productivity signals.",
+      "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
+      "source_query": "wechat mini program",
+      "score": 9
+    },
+    {
+      "date_found": "2026-06-20",
+      "id": 1195137546,
+      "full_name": "mileson/wechat-index-query",
+      "name": "wechat-index-query",
+      "url": "https://github.com/mileson/wechat-index-query",
+      "description": "macOS desktop-assisted automation for querying and comparing the WeChat mini program 微信指数",
+      "platforms": [
+        "desktop",
+        "mini-program"
+      ],
+      "categories": [],
+      "language": "Python",
+      "stars": 8,
+      "forks": 3,
+      "license": "MIT",
+      "last_pushed_at": "2026-03-29T13:34:25Z",
+      "reason": "Matched \"wechat mini program\" as a desktop, mini-program project with interesting app signals.",
+      "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
+      "source_query": "wechat mini program",
+      "score": 8
+    },
+    {
+      "date_found": "2026-06-20",
+      "id": 226627134,
+      "full_name": "abagames/crisp-game-lib",
+      "name": "crisp-game-lib",
+      "url": "https://github.com/abagames/crisp-game-lib",
+      "description": "Minimal JavaScript library for creating classic arcade-like mini-games running in the browser",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "TypeScript",
+      "stars": 641,
+      "forks": 75,
+      "license": "MIT",
+      "last_pushed_at": "2026-06-20T06:31:02Z",
+      "reason": "Matched \"mini game\" as a game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 7
+    },
+    {
+      "date_found": "2026-06-20",
+      "id": 83168941,
+      "full_name": "MinicraftPlus/minicraft-plus-revived",
+      "name": "minicraft-plus-revived",
+      "url": "https://github.com/MinicraftPlus/minicraft-plus-revived",
+      "description": "Minicraft+, an extension of Notch's original minicraft project, with tons more features.",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "Java",
+      "stars": 574,
+      "forks": 105,
+      "license": "GPL-3.0",
+      "last_pushed_at": "2026-05-17T16:41:32Z",
+      "reason": "Matched \"mini game\" as a game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 7
+    },
+    {
+      "date_found": "2026-06-20",
+      "id": 390830518,
+      "full_name": "Plugily-Projects/MiniGamesBox",
+      "name": "MiniGamesBox",
+      "url": "https://github.com/Plugily-Projects/MiniGamesBox",
+      "description": "Minigame methods used by us combined into one core to get a overall unified structure",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "Java",
+      "stars": 19,
+      "forks": 22,
+      "license": "GPL-3.0",
+      "last_pushed_at": "2026-06-09T19:37:34Z",
+      "reason": "Matched \"mini game\" as a game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 7
+    },
+    {
+      "date_found": "2026-06-20",
+      "id": 1209084291,
+      "full_name": "NitrRoM/MagicalGirl-ParadoxActReconstruction",
+      "name": "MagicalGirl-ParadoxActReconstruction",
+      "url": "https://github.com/NitrRoM/MagicalGirl-ParadoxActReconstruction",
+      "description": "A Minecraft mini-game map based on the worldview of *Magical Girl Witch Trial*. It features multiplayer social simulation, detective reasoning, and Werewolf-style gameplay as its core mechanics.",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "",
+      "stars": 15,
+      "forks": 2,
+      "license": "NOASSERTION",
+      "last_pushed_at": "2026-05-06T11:54:11Z",
+      "reason": "Matched \"mini game\" as a game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 7
+    },
+    {
+      "date_found": "2026-06-20",
+      "id": 1207250831,
+      "full_name": "amruthwo/StoryBoy",
+      "name": "StoryBoy",
+      "url": "https://github.com/amruthwo/StoryBoy",
+      "description": "Audiobook player for SBC game consoles like the Miyoo A30, Miyoo Flip, Miyoo Mini Flip, TRIMUI Brick/Hammer, and TRIMUI Smart Pro/S",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "C",
+      "stars": 10,
+      "forks": 0,
+      "license": "GPL-3.0",
+      "last_pushed_at": "2026-05-01T00:17:14Z",
+      "reason": "Matched \"mini game\" as a game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 7
+    },
+    {
+      "date_found": "2026-06-20",
+      "id": 886114219,
+      "full_name": "PondSec/JoeysSlimeventure",
+      "name": "JoeysSlimeventure",
+      "url": "https://github.com/PondSec/JoeysSlimeventure",
+      "description": "This is a early Alphaproject developed in the Godot 4.4 engine and will be a platformer game where players must complete levels and defeat enemies as well as mini-bosses. In Joey's Slimeventure, players can choose from different characters.",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game",
+        "visual"
+      ],
+      "language": "GDScript",
+      "stars": 10,
+      "forks": 0,
+      "license": "MIT",
+      "last_pushed_at": "2026-05-30T17:16:28Z",
+      "reason": "Matched \"mini game\" as a game project with game, visual signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 7
+    },
+    {
+      "date_found": "2026-06-20",
+      "id": 1165947814,
+      "full_name": "AatishAsh/project-Hues-n-Dash",
+      "name": "project-Hues-n-Dash",
+      "url": "https://github.com/AatishAsh/project-Hues-n-Dash",
+      "description": "This is an open-source 2d puzzle platformer game developed as part of an academic mini project",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "GDScript",
+      "stars": 8,
+      "forks": 2,
+      "license": "GPL-2.0",
+      "last_pushed_at": "2026-05-05T16:31:14Z",
+      "reason": "Matched \"mini game\" as a game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 7
+    },
+    {
+      "date_found": "2026-06-20",
+      "id": 1070255013,
+      "full_name": "nianxie/NianxieMini",
+      "name": "NianxieMini",
+      "url": "https://github.com/nianxie/NianxieMini",
+      "description": "common assets for mini game in nianxie",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "C#",
+      "stars": 8,
+      "forks": 2,
+      "license": "MIT",
+      "last_pushed_at": "2026-04-28T04:24:54Z",
+      "reason": "Matched \"mini game\" as a game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 7
+    },
+    {
+      "date_found": "2026-06-20",
+      "id": 1038813733,
+      "full_name": "Sid-1996/BrownDust2-Beat-Helper",
+      "name": "BrownDust2-Beat-Helper",
+      "url": "https://github.com/Sid-1996/BrownDust2-Beat-Helper",
+      "description": "AutoHotkey v2 tool for Brown Dust 2 music mini-game automation. Features draggable & resizable overlays, color detection, multi-zone support, and INI settings. Perfect for keeping perfect beats without finger fatigue.",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "AutoHotkey",
+      "stars": 8,
+      "forks": 0,
+      "license": "MIT",
+      "last_pushed_at": "2026-06-08T14:05:12Z",
+      "reason": "Matched \"mini game\" as a game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 7
+    },
+    {
+      "date_found": "2026-06-20",
+      "id": 1191746494,
+      "full_name": "SifatNycto/XanderCross",
+      "name": "XanderCross",
+      "url": "https://github.com/SifatNycto/XanderCross",
+      "description": "A unique mashup terminal game project based on the OOP using C++ programming language. A mini terminal GameHub.",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "C++",
+      "stars": 8,
+      "forks": 0,
+      "license": "MIT",
+      "last_pushed_at": "2026-05-22T15:35:01Z",
+      "reason": "Matched \"mini game\" as a game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 7
+    },
+    {
+      "date_found": "2026-06-20",
+      "id": 876154158,
+      "full_name": "UnluckyForSome/AOE2-McMinimap",
+      "name": "AOE2-McMinimap",
+      "url": "https://github.com/UnluckyForSome/AOE2-McMinimap",
+      "description": "Generates static Age of Empires 2 mini-maps using recorded game data.",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "Python",
+      "stars": 8,
+      "forks": 0,
+      "license": "",
+      "last_pushed_at": "2026-05-11T17:59:32Z",
+      "reason": "Matched \"mini game\" as a game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 7
+    },
+    {
+      "date_found": "2026-06-20",
+      "id": 1175002755,
+      "full_name": "abagames/ai-builds-games-humans-refine",
+      "name": "ai-builds-games-humans-refine",
+      "url": "https://github.com/abagames/ai-builds-games-humans-refine",
+      "description": "Human-in-the-loop Godot mini-game workshop",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "GDScript",
+      "stars": 7,
+      "forks": 1,
+      "license": "MIT",
+      "last_pushed_at": "2026-05-07T04:45:48Z",
+      "reason": "Matched \"mini game\" as a game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 7
+    },
+    {
+      "date_found": "2026-06-20",
+      "id": 1250522925,
+      "full_name": "bitshiftcrazy/spell_tome",
+      "name": "spell_tome",
+      "url": "https://github.com/bitshiftcrazy/spell_tome",
+      "description": "A handheld PCB spell tome for tabletop RPGs, the cringiest text adventures you'll ever play and mini games no one asked for.  Built around a tiny OLED for minimal gaming and a Seeed Studio XIAO RP2040 for maximum reprogramming comfort.",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "",
+      "stars": 7,
+      "forks": 1,
+      "license": "NOASSERTION",
+      "last_pushed_at": "2026-05-30T10:49:07Z",
+      "reason": "Matched \"mini game\" as a game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 7
+    },
+    {
+      "date_found": "2026-06-20",
+      "id": 1151325303,
+      "full_name": "ErskeN1337/Golem-Mining-Suite",
+      "name": "Golem-Mining-Suite",
+      "url": "https://github.com/ErskeN1337/Golem-Mining-Suite",
+      "description": "Golem Mining Suite  Golem Mining Suite is an easy-to-use tool for Star Citizen players who want to optimize their mining activities. It helps you locate minerals in-game and provides information about their value at different station terminals, making it easier to plan profitable mining routes.",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "C#",
+      "stars": 7,
+      "forks": 2,
+      "license": "",
+      "last_pushed_at": "2026-04-26T08:34:21Z",
+      "reason": "Matched \"mini game\" as a game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 7
+    },
+    {
+      "date_found": "2026-06-20",
+      "id": 1191744181,
+      "full_name": "Messyshadow/mini_game_engine",
+      "name": "mini_game_engine",
+      "url": "https://github.com/Messyshadow/mini_game_engine",
+      "description": "c++ mini game engine ",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "C",
+      "stars": 7,
+      "forks": 1,
+      "license": "",
+      "last_pushed_at": "2026-05-02T13:24:18Z",
+      "reason": "Matched \"mini game\" as a game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 7
+    },
+    {
+      "date_found": "2026-06-20",
+      "id": 674708374,
+      "full_name": "MuxaJlbl4/Game-Data-Mining",
+      "name": "Game-Data-Mining",
+      "url": "https://github.com/MuxaJlbl4/Game-Data-Mining",
+      "description": "Personal collection of interesting info, extracted from games by reverse engineering and data mining",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "AutoHotkey",
+      "stars": 7,
+      "forks": 0,
+      "license": "",
+      "last_pushed_at": "2026-06-16T17:59:40Z",
+      "reason": "Matched \"mini game\" as a game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 7
+    },
+    {
+      "date_found": "2026-06-20",
+      "id": 1041070129,
+      "full_name": "akshay-abraham/Quantalink",
+      "name": "Quantalink",
+      "url": "https://github.com/akshay-abraham/Quantalink",
+      "description": "A responsive, physics-inspired portfolio web app built with Next.js and TypeScript, featuring an interactive Schrödinger’s cat mini-game and dynamic particle simulation backgrounds.",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "TypeScript",
+      "stars": 6,
+      "forks": 0,
+      "license": "GPL-3.0",
+      "last_pushed_at": "2026-05-31T15:10:55Z",
+      "reason": "Matched \"mini game\" as a game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 7
+    },
+    {
+      "date_found": "2026-06-20",
+      "id": 77023467,
+      "full_name": "britzl/minimegaparty",
+      "name": "minimegaparty",
+      "url": "https://github.com/britzl/minimegaparty",
+      "description": "Multiplayer one-button mini games inspired by the Wario Ware series of mini games. Created using the Defold game engine.",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "",
+      "stars": 6,
+      "forks": 0,
+      "license": "",
+      "last_pushed_at": "2026-05-29T13:03:25Z",
+      "reason": "Matched \"mini game\" as a game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 7
     }
   ]
 }

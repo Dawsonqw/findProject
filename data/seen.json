@@ -15,6 +15,16 @@
       "first_seen_at": "2026-06-18",
       "source_query": "mini game"
     },
+    "77023467": {
+      "full_name": "britzl/minimegaparty",
+      "first_seen_at": "2026-06-20",
+      "source_query": "mini game"
+    },
+    "83168941": {
+      "full_name": "MinicraftPlus/minicraft-plus-revived",
+      "first_seen_at": "2026-06-20",
+      "source_query": "mini game"
+    },
     "101243754": {
       "full_name": "digitalgust/miniJVM",
       "first_seen_at": "2026-06-17",
@@ -35,6 +45,16 @@
       "first_seen_at": "2026-06-17",
       "source_query": "mini game"
     },
+    "226627134": {
+      "full_name": "abagames/crisp-game-lib",
+      "first_seen_at": "2026-06-20",
+      "source_query": "mini game"
+    },
+    "251551747": {
+      "full_name": "LiMingHuaGit/MengsNote",
+      "first_seen_at": "2026-06-20",
+      "source_query": "wechat mini program"
+    },
     "332417024": {
       "full_name": "HeXavi8/Bugu-Sport",
       "first_seen_at": "2026-06-17",
@@ -48,6 +68,11 @@
     "387269543": {
       "full_name": "Kirilllive/Fifteen_puzzle_maker",
       "first_seen_at": "2026-06-19",
+      "source_query": "mini game"
+    },
+    "390830518": {
+      "full_name": "Plugily-Projects/MiniGamesBox",
+      "first_seen_at": "2026-06-20",
       "source_query": "mini game"
     },
     "393641318": {
@@ -110,6 +135,11 @@
       "first_seen_at": "2026-06-17",
       "source_query": "floating widget"
     },
+    "674708374": {
+      "full_name": "MuxaJlbl4/Game-Data-Mining",
+      "first_seen_at": "2026-06-20",
+      "source_query": "mini game"
+    },
     "718258944": {
       "full_name": "DalekCraft2/Shimeji-Desktop",
       "first_seen_at": "2026-06-17",
@@ -130,6 +160,16 @@
       "first_seen_at": "2026-06-19",
       "source_query": "mini game"
     },
+    "876154158": {
+      "full_name": "UnluckyForSome/AOE2-McMinimap",
+      "first_seen_at": "2026-06-20",
+      "source_query": "mini game"
+    },
+    "886114219": {
+      "full_name": "PondSec/JoeysSlimeventure",
+      "first_seen_at": "2026-06-20",
+      "source_query": "mini game"
+    },
     "917836896": {
       "full_name": "aiyangtongxue/wechat-whack-a-mole",
       "first_seen_at": "2026-06-19",
@@ -145,10 +185,25 @@
       "first_seen_at": "2026-06-19",
       "source_query": "wechat mini program"
     },
+    "1038813733": {
+      "full_name": "Sid-1996/BrownDust2-Beat-Helper",
+      "first_seen_at": "2026-06-20",
+      "source_query": "mini game"
+    },
+    "1041070129": {
+      "full_name": "akshay-abraham/Quantalink",
+      "first_seen_at": "2026-06-20",
+      "source_query": "mini game"
+    },
     "1043156119": {
       "full_name": "xiaoSun1997/xsun_desktop_pet",
       "first_seen_at": "2026-06-18",
       "source_query": "desktop pet"
+    },
+    "1070255013": {
+      "full_name": "nianxie/NianxieMini",
+      "first_seen_at": "2026-06-20",
+      "source_query": "mini game"
     },
     "1074584672": {
       "full_name": "Marksonthegamer/Mate-Engine-Linux-Port",
@@ -180,6 +235,11 @@
       "first_seen_at": "2026-06-17",
       "source_query": "desktop pet"
     },
+    "1151325303": {
+      "full_name": "ErskeN1337/Golem-Mining-Suite",
+      "first_seen_at": "2026-06-20",
+      "source_query": "mini game"
+    },
     "1155507082": {
       "full_name": "x380kkm/Live2DPet",
       "first_seen_at": "2026-06-17",
@@ -195,10 +255,20 @@
       "first_seen_at": "2026-06-17",
       "source_query": "desktop pet"
     },
+    "1165947814": {
+      "full_name": "AatishAsh/project-Hues-n-Dash",
+      "first_seen_at": "2026-06-20",
+      "source_query": "mini game"
+    },
     "1172991789": {
       "full_name": "RYOITABASHI/Shelly",
       "first_seen_at": "2026-06-17",
       "source_query": "kotlin app"
+    },
+    "1175002755": {
+      "full_name": "abagames/ai-builds-games-humans-refine",
+      "first_seen_at": "2026-06-20",
+      "source_query": "mini game"
     },
     "1178039434": {
       "full_name": "ales-drnz/mpv_audio_kit",
@@ -210,9 +280,24 @@
       "first_seen_at": "2026-06-17",
       "source_query": "tray app"
     },
+    "1191744181": {
+      "full_name": "Messyshadow/mini_game_engine",
+      "first_seen_at": "2026-06-20",
+      "source_query": "mini game"
+    },
+    "1191746494": {
+      "full_name": "SifatNycto/XanderCross",
+      "first_seen_at": "2026-06-20",
+      "source_query": "mini game"
+    },
     "1193379551": {
       "full_name": "The-niceU/LearningTools",
       "first_seen_at": "2026-06-19",
+      "source_query": "wechat mini program"
+    },
+    "1195137546": {
+      "full_name": "mileson/wechat-index-query",
+      "first_seen_at": "2026-06-20",
       "source_query": "wechat mini program"
     },
     "1199312423": {
@@ -229,6 +314,16 @@
       "full_name": "DonkeyKing01/BriefyPet",
       "first_seen_at": "2026-06-17",
       "source_query": "desktop pet"
+    },
+    "1207250831": {
+      "full_name": "amruthwo/StoryBoy",
+      "first_seen_at": "2026-06-20",
+      "source_query": "mini game"
+    },
+    "1209084291": {
+      "full_name": "NitrRoM/MagicalGirl-ParadoxActReconstruction",
+      "first_seen_at": "2026-06-20",
+      "source_query": "mini game"
     },
     "1226256828": {
       "full_name": "Cmochance/codex-app-transfer",
@@ -294,6 +389,11 @@
       "full_name": "DataAxeagle/DockPetWin-Aemeath",
       "first_seen_at": "2026-06-18",
       "source_query": "desktop pet"
+    },
+    "1250522925": {
+      "full_name": "bitshiftcrazy/spell_tome",
+      "first_seen_at": "2026-06-20",
+      "source_query": "mini game"
     },
     "1251953390": {
       "full_name": "shngboe-png/mitsuha-pet",
