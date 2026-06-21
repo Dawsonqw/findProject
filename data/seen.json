@@ -30,14 +30,34 @@
       "first_seen_at": "2026-06-17",
       "source_query": "mini game"
     },
+    "114293592": {
+      "full_name": "tinajs/wxio",
+      "first_seen_at": "2026-06-21",
+      "source_query": "wechat mini program"
+    },
     "133668730": {
       "full_name": "LiuKay/wechat_springboot",
       "first_seen_at": "2026-06-19",
       "source_query": "wechat mini program"
     },
+    "139091791": {
+      "full_name": "fthux/quietweather",
+      "first_seen_at": "2026-06-21",
+      "source_query": "wechat mini program"
+    },
+    "145298240": {
+      "full_name": "fthux/juejin",
+      "first_seen_at": "2026-06-21",
+      "source_query": "wechat mini program"
+    },
     "148602493": {
       "full_name": "JoneXiong/oejia_weshop",
       "first_seen_at": "2026-06-19",
+      "source_query": "wechat mini program"
+    },
+    "158225815": {
+      "full_name": "wechat-miniprogram/api-typings",
+      "first_seen_at": "2026-06-21",
       "source_query": "wechat mini program"
     },
     "181687869": {
@@ -54,6 +74,11 @@
       "full_name": "LiMingHuaGit/MengsNote",
       "first_seen_at": "2026-06-20",
       "source_query": "wechat mini program"
+    },
+    "305867207": {
+      "full_name": "ModdingFox/OpenFuraffinityClient",
+      "first_seen_at": "2026-06-21",
+      "source_query": "android toy"
     },
     "332417024": {
       "full_name": "HeXavi8/Bugu-Sport",
@@ -94,6 +119,11 @@
       "full_name": "L3P3/minicraft",
       "first_seen_at": "2026-06-19",
       "source_query": "mini game"
+    },
+    "459401853": {
+      "full_name": "ant-design/ant-design-mini",
+      "first_seen_at": "2026-06-21",
+      "source_query": "wechat mini program"
     },
     "501352740": {
       "full_name": "openfoodfacts/hunger-games",
@@ -155,6 +185,16 @@
       "first_seen_at": "2026-06-18",
       "source_query": "mini game"
     },
+    "751725809": {
+      "full_name": "985563349/kite-weapp",
+      "first_seen_at": "2026-06-21",
+      "source_query": "wechat mini program"
+    },
+    "771412693": {
+      "full_name": "ArcticFoxPro/QQVersionListTool-WeChatMiniProgram",
+      "first_seen_at": "2026-06-21",
+      "source_query": "wechat mini program"
+    },
     "862315404": {
       "full_name": "endlessm/moddable-platformer",
       "first_seen_at": "2026-06-19",
@@ -170,10 +210,35 @@
       "first_seen_at": "2026-06-20",
       "source_query": "mini game"
     },
+    "893431989": {
+      "full_name": "TheNooodle/MinishootRandomizer",
+      "first_seen_at": "2026-06-21",
+      "source_query": "mini game"
+    },
     "917836896": {
       "full_name": "aiyangtongxue/wechat-whack-a-mole",
       "first_seen_at": "2026-06-19",
       "source_query": "wechat mini program"
+    },
+    "939989042": {
+      "full_name": "Smarts-Hub/Disasters",
+      "first_seen_at": "2026-06-21",
+      "source_query": "mini game"
+    },
+    "940966609": {
+      "full_name": "openpheno/OpenPheno",
+      "first_seen_at": "2026-06-21",
+      "source_query": "wechat mini program"
+    },
+    "954375804": {
+      "full_name": "Json031/Wechat-MiniProgram-ChatGPT",
+      "first_seen_at": "2026-06-21",
+      "source_query": "wechat mini program"
+    },
+    "997929274": {
+      "full_name": "abcnull/godot-mini-games-demo",
+      "first_seen_at": "2026-06-21",
+      "source_query": "mini game"
     },
     "1000874106": {
       "full_name": "liwenka1/bongo-cat-next",
@@ -199,6 +264,11 @@
       "full_name": "xiaoSun1997/xsun_desktop_pet",
       "first_seen_at": "2026-06-18",
       "source_query": "desktop pet"
+    },
+    "1067434182": {
+      "full_name": "BizShibe/claude-ai-mini-snake-game",
+      "first_seen_at": "2026-06-21",
+      "source_query": "mini game"
     },
     "1070255013": {
       "full_name": "nianxie/NianxieMini",
@@ -235,6 +305,11 @@
       "first_seen_at": "2026-06-17",
       "source_query": "desktop pet"
     },
+    "1142238434": {
+      "full_name": "Laykimhoung/MultiMiniGame",
+      "first_seen_at": "2026-06-21",
+      "source_query": "mini game"
+    },
     "1151325303": {
       "full_name": "ErskeN1337/Golem-Mining-Suite",
       "first_seen_at": "2026-06-20",
@@ -249,6 +324,11 @@
       "full_name": "AlexWS12/ReFocus",
       "first_seen_at": "2026-06-18",
       "source_query": "desktop pet"
+    },
+    "1157601312": {
+      "full_name": "asdyych/wechat-miniprogram-skill",
+      "first_seen_at": "2026-06-21",
+      "source_query": "wechat mini program"
     },
     "1161357377": {
       "full_name": "PeonPing/peon-pet",
@@ -279,6 +359,16 @@
       "full_name": "simonlinuxcraft/claude-ai-desktop-app",
       "first_seen_at": "2026-06-17",
       "source_query": "tray app"
+    },
+    "1188308297": {
+      "full_name": "rostikcermak-pixel/Konqi-Pet",
+      "first_seen_at": "2026-06-21",
+      "source_query": "desktop pet"
+    },
+    "1189645933": {
+      "full_name": "Sun-sunshine06/miniprogram-skills",
+      "first_seen_at": "2026-06-21",
+      "source_query": "wechat mini program"
     },
     "1191744181": {
       "full_name": "Messyshadow/mini_game_engine",
@@ -345,6 +435,11 @@
       "first_seen_at": "2026-06-18",
       "source_query": "desktop pet"
     },
+    "1231834657": {
+      "full_name": "tlotb/game.cpc.minislug",
+      "first_seen_at": "2026-06-21",
+      "source_query": "mini game"
+    },
     "1232917466": {
       "full_name": "KebeliSamet0/clawd",
       "first_seen_at": "2026-06-17",
@@ -369,6 +464,11 @@
       "full_name": "edwin-hao-ai/MouseClaw",
       "first_seen_at": "2026-06-18",
       "source_query": "desktop pet"
+    },
+    "1240485529": {
+      "full_name": "MarcusBiel/roundcraft",
+      "first_seen_at": "2026-06-21",
+      "source_query": "mini game"
     },
     "1241621727": {
       "full_name": "bleeeet/TermiPet",

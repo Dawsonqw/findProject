@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T06:44:26.071Z",
-  "total_count": 87,
+  "generated_at": "2026-06-21T07:14:00.227Z",
+  "total_count": 107,
   "projects": [
     {
       "date_found": "2026-06-17",
@@ -2033,6 +2033,446 @@
       "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
       "source_query": "mini game",
       "score": 7
+    },
+    {
+      "date_found": "2026-06-21",
+      "id": 1188308297,
+      "full_name": "rostikcermak-pixel/Konqi-Pet",
+      "name": "Konqi-Pet",
+      "url": "https://github.com/rostikcermak-pixel/Konqi-Pet",
+      "description": "A  Linux desktop pet that judges everything you do. Walks around your screen, reacts to what apps you have open, escalates commentary the longer you stay in them, and occasionally has a crisis about it. Built with PyQt6. Runs on X11/XWayland.",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "pet",
+        "visual"
+      ],
+      "language": "Python",
+      "stars": 5,
+      "forks": 0,
+      "license": "NOASSERTION",
+      "last_pushed_at": "2026-06-20T14:08:18Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with pet, visual signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 13
+    },
+    {
+      "date_found": "2026-06-21",
+      "id": 997929274,
+      "full_name": "abcnull/godot-mini-games-demo",
+      "name": "godot-mini-games-demo",
+      "url": "https://github.com/abcnull/godot-mini-games-demo",
+      "description": "godot制作的小游戏合集demo. Classic mini-games demo through godot using GDscript.  Under continuous development",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "GDScript",
+      "stars": 6,
+      "forks": 2,
+      "license": "MIT",
+      "last_pushed_at": "2026-04-30T12:32:34Z",
+      "reason": "Matched \"mini game\" as a game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 7
+    },
+    {
+      "date_found": "2026-06-21",
+      "id": 1142238434,
+      "full_name": "Laykimhoung/MultiMiniGame",
+      "name": "MultiMiniGame",
+      "url": "https://github.com/Laykimhoung/MultiMiniGame",
+      "description": "A collection of mini-games built with C# and .NET Windows Forms.",
+      "platforms": [
+        "game",
+        "windows"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "C#",
+      "stars": 6,
+      "forks": 0,
+      "license": "MIT",
+      "last_pushed_at": "2026-05-15T18:58:12Z",
+      "reason": "Matched \"mini game\" as a game, windows project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 7
+    },
+    {
+      "date_found": "2026-06-21",
+      "id": 1240485529,
+      "full_name": "MarcusBiel/roundcraft",
+      "name": "roundcraft",
+      "url": "https://github.com/MarcusBiel/roundcraft",
+      "description": "An open-source, kid-friendly Three.js mini game built by dads and kids. Roundcraft is a small round adventure world for learning coding together.",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "JavaScript",
+      "stars": 6,
+      "forks": 1,
+      "license": "MIT",
+      "last_pushed_at": "2026-05-16T14:10:47Z",
+      "reason": "Matched \"mini game\" as a game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 7
+    },
+    {
+      "date_found": "2026-06-21",
+      "id": 893431989,
+      "full_name": "TheNooodle/MinishootRandomizer",
+      "name": "MinishootRandomizer",
+      "url": "https://github.com/TheNooodle/MinishootRandomizer",
+      "description": "A randomizer mod for the game Minishoot' Adventures",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "C#",
+      "stars": 6,
+      "forks": 2,
+      "license": "MIT",
+      "last_pushed_at": "2026-04-25T17:09:04Z",
+      "reason": "Matched \"mini game\" as a game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 7
+    },
+    {
+      "date_found": "2026-06-21",
+      "id": 1067434182,
+      "full_name": "BizShibe/claude-ai-mini-snake-game",
+      "name": "claude-ai-mini-snake-game",
+      "url": "https://github.com/BizShibe/claude-ai-mini-snake-game",
+      "description": "🐍 AI-powered Snake Game built entirely with Claude AI. Fully responsive with touch controls. Pure vanilla JavaScript!",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "HTML",
+      "stars": 5,
+      "forks": 0,
+      "license": "",
+      "last_pushed_at": "2026-06-18T12:08:07Z",
+      "reason": "Matched \"mini game\" as a game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 7
+    },
+    {
+      "date_found": "2026-06-21",
+      "id": 939989042,
+      "full_name": "Smarts-Hub/Disasters",
+      "name": "Disasters",
+      "url": "https://github.com/Smarts-Hub/Disasters",
+      "description": "Replica of Hypixel's new trendy mini-game ",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game",
+        "visual"
+      ],
+      "language": "Java",
+      "stars": 5,
+      "forks": 5,
+      "license": "",
+      "last_pushed_at": "2026-06-14T00:58:12Z",
+      "reason": "Matched \"mini game\" as a game project with game, visual signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 7
+    },
+    {
+      "date_found": "2026-06-21",
+      "id": 158225815,
+      "full_name": "wechat-miniprogram/api-typings",
+      "name": "api-typings",
+      "url": "https://github.com/wechat-miniprogram/api-typings",
+      "description": "Type definitions for APIs of Wechat Mini Program in TypeScript",
+      "platforms": [
+        "mini-program"
+      ],
+      "categories": [],
+      "language": "TypeScript",
+      "stars": 801,
+      "forks": 116,
+      "license": "MIT",
+      "last_pushed_at": "2026-05-14T07:05:38Z",
+      "reason": "Matched \"wechat mini program\" as a mini-program project with interesting app signals.",
+      "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
+      "source_query": "wechat mini program",
+      "score": 5
+    },
+    {
+      "date_found": "2026-06-21",
+      "id": 145298240,
+      "full_name": "fthux/juejin",
+      "name": "juejin",
+      "url": "https://github.com/fthux/juejin",
+      "description": ":moneybag: Unofficial JueJin wechat mini program application - 掘金非官方微信小程序",
+      "platforms": [
+        "mini-program"
+      ],
+      "categories": [],
+      "language": "JavaScript",
+      "stars": 779,
+      "forks": 165,
+      "license": "MIT",
+      "last_pushed_at": "2025-11-09T07:21:57Z",
+      "reason": "Matched \"wechat mini program\" as a mini-program project with interesting app signals.",
+      "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
+      "source_query": "wechat mini program",
+      "score": 5
+    },
+    {
+      "date_found": "2026-06-21",
+      "id": 139091791,
+      "full_name": "fthux/quietweather",
+      "name": "quietweather",
+      "url": "https://github.com/fthux/quietweather",
+      "description": ":sunny: Develop a weather wechat mini program application in two days - 两天撸一个天气应用微信小程序",
+      "platforms": [
+        "mini-program"
+      ],
+      "categories": [],
+      "language": "JavaScript",
+      "stars": 716,
+      "forks": 189,
+      "license": "MIT",
+      "last_pushed_at": "2025-11-09T07:20:48Z",
+      "reason": "Matched \"wechat mini program\" as a mini-program project with interesting app signals.",
+      "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
+      "source_query": "wechat mini program",
+      "score": 5
+    },
+    {
+      "date_found": "2026-06-21",
+      "id": 459401853,
+      "full_name": "ant-design/ant-design-mini",
+      "name": "ant-design-mini",
+      "url": "https://github.com/ant-design/ant-design-mini",
+      "description": "Ant Design Mini is a UI component library for Alipay mini programs that is also compatible with WeChat mini programs, it follows the Ant Design specifications. ",
+      "platforms": [
+        "mini-program"
+      ],
+      "categories": [],
+      "language": "TypeScript",
+      "stars": 548,
+      "forks": 153,
+      "license": "MIT",
+      "last_pushed_at": "2026-06-01T14:13:34Z",
+      "reason": "Matched \"wechat mini program\" as a mini-program project with interesting app signals.",
+      "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
+      "source_query": "wechat mini program",
+      "score": 5
+    },
+    {
+      "date_found": "2026-06-21",
+      "id": 771412693,
+      "full_name": "ArcticFoxPro/QQVersionListTool-WeChatMiniProgram",
+      "name": "QQVersionListTool-WeChatMiniProgram",
+      "url": "https://github.com/ArcticFoxPro/QQVersionListTool-WeChatMiniProgram",
+      "description": "QQ 版本列表 Vigor for WeChat MiniProgram",
+      "platforms": [
+        "mini-program"
+      ],
+      "categories": [],
+      "language": "JavaScript",
+      "stars": 15,
+      "forks": 1,
+      "license": "NOASSERTION",
+      "last_pushed_at": "2026-05-27T20:11:46Z",
+      "reason": "Matched \"wechat mini program\" as a mini-program project with interesting app signals.",
+      "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
+      "source_query": "wechat mini program",
+      "score": 5
+    },
+    {
+      "date_found": "2026-06-21",
+      "id": 1157601312,
+      "full_name": "asdyych/wechat-miniprogram-skill",
+      "name": "wechat-miniprogram-skill",
+      "url": "https://github.com/asdyych/wechat-miniprogram-skill",
+      "description": "WeChat Mini Program (微信小程序) development skill for Claude Code",
+      "platforms": [
+        "mini-program"
+      ],
+      "categories": [],
+      "language": "Python",
+      "stars": 14,
+      "forks": 1,
+      "license": "",
+      "last_pushed_at": "2026-02-14T02:47:02Z",
+      "reason": "Matched \"wechat mini program\" as a mini-program project with interesting app signals.",
+      "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
+      "source_query": "wechat mini program",
+      "score": 5
+    },
+    {
+      "date_found": "2026-06-21",
+      "id": 1189645933,
+      "full_name": "Sun-sunshine06/miniprogram-skills",
+      "name": "miniprogram-skills",
+      "url": "https://github.com/Sun-sunshine06/miniprogram-skills",
+      "description": "Reusable Codex skills & Claude Code skills for WeChat Mini Program development, DevTools diagnosis, and scaffold validation. 微信小程序开发与 DevTools 诊断的可复用 AI 编码技能集。",
+      "platforms": [
+        "mini-program"
+      ],
+      "categories": [],
+      "language": "Python",
+      "stars": 14,
+      "forks": 2,
+      "license": "MIT",
+      "last_pushed_at": "2026-05-23T18:39:17Z",
+      "reason": "Matched \"wechat mini program\" as a mini-program project with interesting app signals.",
+      "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
+      "source_query": "wechat mini program",
+      "score": 5
+    },
+    {
+      "date_found": "2026-06-21",
+      "id": 751725809,
+      "full_name": "985563349/kite-weapp",
+      "name": "kite-weapp",
+      "url": "https://github.com/985563349/kite-weapp",
+      "description": "A WeChat Mini Program Component Library",
+      "platforms": [
+        "mini-program"
+      ],
+      "categories": [],
+      "language": "TypeScript",
+      "stars": 12,
+      "forks": 1,
+      "license": "MIT",
+      "last_pushed_at": "2024-12-20T04:33:21Z",
+      "reason": "Matched \"wechat mini program\" as a mini-program project with interesting app signals.",
+      "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
+      "source_query": "wechat mini program",
+      "score": 5
+    },
+    {
+      "date_found": "2026-06-21",
+      "id": 954375804,
+      "full_name": "Json031/Wechat-MiniProgram-ChatGPT",
+      "name": "Wechat-MiniProgram-ChatGPT",
+      "url": "https://github.com/Json031/Wechat-MiniProgram-ChatGPT",
+      "description": "基于ChatGPT模型开发的AI工具微信小程序，提供聊天机器人、绘画助手等功能，支持用户通过文本和语音与 ChatGPT 交流，并且还具备画图功能，支持预览绘制的图片并可长按发送给微信好友。 WeChat Mini Program, an AI tool developed based on the ChatGPT model, provides functions such as chatbot and drawing assistant. It supports users to communicate with ChatGPT through text and voice, and also has drawing function.",
+      "platforms": [
+        "mini-program"
+      ],
+      "categories": [],
+      "language": "JavaScript",
+      "stars": 12,
+      "forks": 1,
+      "license": "Apache-2.0",
+      "last_pushed_at": "2026-01-31T07:22:09Z",
+      "reason": "Matched \"wechat mini program\" as a mini-program project with interesting app signals.",
+      "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
+      "source_query": "wechat mini program",
+      "score": 5
+    },
+    {
+      "date_found": "2026-06-21",
+      "id": 305867207,
+      "full_name": "ModdingFox/OpenFuraffinityClient",
+      "name": "OpenFuraffinityClient",
+      "url": "https://github.com/ModdingFox/OpenFuraffinityClient",
+      "description": "A toy project of mine to build an unofficial furaffinity client for android",
+      "platforms": [
+        "android"
+      ],
+      "categories": [],
+      "language": "Java",
+      "stars": 12,
+      "forks": 1,
+      "license": "",
+      "last_pushed_at": "2022-12-11T23:56:54Z",
+      "reason": "Matched \"android toy\" as a android project with interesting app signals.",
+      "dev_idea": "Wrap the idea as a focused Android app with friendly onboarding for non-technical users.",
+      "source_query": "android toy",
+      "score": 5
+    },
+    {
+      "date_found": "2026-06-21",
+      "id": 940966609,
+      "full_name": "openpheno/OpenPheno",
+      "name": "OpenPheno",
+      "url": "https://github.com/openpheno/OpenPheno",
+      "description": "an open-access, user-friendly, and smartphone-based platform encapsulated within a WeChat Mini-Program for instant plant pheno- typing",
+      "platforms": [
+        "mini-program"
+      ],
+      "categories": [],
+      "language": "Python",
+      "stars": 12,
+      "forks": 1,
+      "license": "MIT",
+      "last_pushed_at": "2025-05-19T09:15:24Z",
+      "reason": "Matched \"wechat mini program\" as a mini-program project with interesting app signals.",
+      "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
+      "source_query": "wechat mini program",
+      "score": 5
+    },
+    {
+      "date_found": "2026-06-21",
+      "id": 114293592,
+      "full_name": "tinajs/wxio",
+      "name": "wxio",
+      "url": "https://github.com/tinajs/wxio",
+      "description": ":candy: Delightful APIs of Wechat-mini-program [WIP]",
+      "platforms": [
+        "mini-program"
+      ],
+      "categories": [],
+      "language": "JavaScript",
+      "stars": 10,
+      "forks": 2,
+      "license": "Apache-2.0",
+      "last_pushed_at": "2026-06-10T02:06:58Z",
+      "reason": "Matched \"wechat mini program\" as a mini-program project with interesting app signals.",
+      "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
+      "source_query": "wechat mini program",
+      "score": 5
+    },
+    {
+      "date_found": "2026-06-21",
+      "id": 1231834657,
+      "full_name": "tlotb/game.cpc.minislug",
+      "name": "game.cpc.minislug",
+      "url": "https://github.com/tlotb/game.cpc.minislug",
+      "description": "",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "Assembly",
+      "stars": 10,
+      "forks": 0,
+      "license": "MIT",
+      "last_pushed_at": "2026-05-11T19:52:05Z",
+      "reason": "Matched \"mini game\" as a game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 5
     }
   ]
 }
