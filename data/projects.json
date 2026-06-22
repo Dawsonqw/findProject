@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-21T07:14:00.227Z",
-  "total_count": 107,
+  "generated_at": "2026-06-22T07:45:24.512Z",
+  "total_count": 127,
   "projects": [
     {
       "date_found": "2026-06-17",
@@ -2472,6 +2472,441 @@
       "reason": "Matched \"mini game\" as a game project with game signals.",
       "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
       "source_query": "mini game",
+      "score": 5
+    },
+    {
+      "date_found": "2026-06-22",
+      "id": 165234319,
+      "full_name": "JetLua/wechat-adapter",
+      "name": "wechat-adapter",
+      "url": "https://github.com/JetLua/wechat-adapter",
+      "description": "A super small adapter for wechat mini game",
+      "platforms": [
+        "game",
+        "mini-program"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "JavaScript",
+      "stars": 30,
+      "forks": 5,
+      "license": "",
+      "last_pushed_at": "2026-06-21T08:21:03Z",
+      "reason": "Matched \"mini game\" as a game, mini-program project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 14
+    },
+    {
+      "date_found": "2026-06-22",
+      "id": 1270757283,
+      "full_name": "WayneYe912/OhMyChiikawa",
+      "name": "OhMyChiikawa",
+      "url": "https://github.com/WayneYe912/OhMyChiikawa",
+      "description": "一款轻量的 macOS 桌面宠物应用，当前支持形象为《Chiikawa》中的角色。（A lightweight macOS desktop pet app featuring character from Chiikawa. ）",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "JavaScript",
+      "stars": 8,
+      "forks": 0,
+      "license": "MIT",
+      "last_pushed_at": "2026-06-19T07:59:02Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 13
+    },
+    {
+      "date_found": "2026-06-22",
+      "id": 1248663089,
+      "full_name": "yim7/AzusaMochi",
+      "name": "AzusaMochi",
+      "url": "https://github.com/yim7/AzusaMochi",
+      "description": "A cute AzusaMochi Codex Desktop pet package",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "",
+      "stars": 5,
+      "forks": 0,
+      "license": "MIT",
+      "last_pushed_at": "2026-06-06T00:26:03Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 13
+    },
+    {
+      "date_found": "2026-06-22",
+      "id": 1272990439,
+      "full_name": "cryptolandorg/Casino-Crash-Telegram-App",
+      "name": "Casino-Crash-Telegram-App",
+      "url": "https://github.com/cryptolandorg/Casino-Crash-Telegram-App",
+      "description": "Telegram Mini App of Aviator-style crash game. Handles server-side betting, flight, and cashout with configurable odds.",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "TypeScript",
+      "stars": 33,
+      "forks": 888,
+      "license": "",
+      "last_pushed_at": "2026-06-18T05:52:04Z",
+      "reason": "Matched \"mini game\" as a game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 11
+    },
+    {
+      "date_found": "2026-06-22",
+      "id": 1240122841,
+      "full_name": "michalmaj/cognitive-data-arcade",
+      "name": "cognitive-data-arcade",
+      "url": "https://github.com/michalmaj/cognitive-data-arcade",
+      "description": "Interactive mini-game arcade for learning cognitive data science - 31 pygame games covering RT experiments, statistics, ML, NLP, and network effects. Bilingual (PL/EN).",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "Python",
+      "stars": 7,
+      "forks": 0,
+      "license": "NOASSERTION",
+      "last_pushed_at": "2026-06-22T04:20:14Z",
+      "reason": "Matched \"mini game\" as a game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 7
+    },
+    {
+      "date_found": "2026-06-22",
+      "id": 1199396693,
+      "full_name": "KiskaSora/GameCollection",
+      "name": "GameCollection",
+      "url": "https://github.com/KiskaSora/GameCollection",
+      "description": "mini-game for Sillytavern",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "JavaScript",
+      "stars": 5,
+      "forks": 0,
+      "license": "GPL-2.0",
+      "last_pushed_at": "2026-06-18T16:00:27Z",
+      "reason": "Matched \"mini game\" as a game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 7
+    },
+    {
+      "date_found": "2026-06-22",
+      "id": 649667724,
+      "full_name": "missannil/annil",
+      "name": "annil",
+      "url": "https://github.com/missannil/annil",
+      "description": "使用typescript原生开发微信小程序(typescript-wechat-mini-program)",
+      "platforms": [
+        "mini-program"
+      ],
+      "categories": [],
+      "language": "TypeScript",
+      "stars": 9,
+      "forks": 1,
+      "license": "MIT",
+      "last_pushed_at": "2026-06-18T03:08:07Z",
+      "reason": "Matched \"wechat mini program\" as a mini-program project with interesting app signals.",
+      "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
+      "source_query": "wechat mini program",
+      "score": 5
+    },
+    {
+      "date_found": "2026-06-22",
+      "id": 187346982,
+      "full_name": "shusheng007/AnnotationProcessorToys",
+      "name": "AnnotationProcessorToys",
+      "url": "https://github.com/shusheng007/AnnotationProcessorToys",
+      "description": "show how to use compile-time annotations in Android development",
+      "platforms": [
+        "android"
+      ],
+      "categories": [],
+      "language": "Java",
+      "stars": 9,
+      "forks": 4,
+      "license": "Apache-2.0",
+      "last_pushed_at": "2024-03-29T07:26:29Z",
+      "reason": "Matched \"android toy\" as a android project with interesting app signals.",
+      "dev_idea": "Wrap the idea as a focused Android app with friendly onboarding for non-technical users.",
+      "source_query": "android toy",
+      "score": 5
+    },
+    {
+      "date_found": "2026-06-22",
+      "id": 1096161596,
+      "full_name": "SteamedBread2333/wx-miniprogram-waterfall",
+      "name": "wx-miniprogram-waterfall",
+      "url": "https://github.com/SteamedBread2333/wx-miniprogram-waterfall",
+      "description": "A flexible and performant waterfall layout component for WeChat Mini Programs, featuring automatic item distribution, dynamic height calculation, and customizable item rendering.",
+      "platforms": [
+        "mini-program"
+      ],
+      "categories": [],
+      "language": "TypeScript",
+      "stars": 9,
+      "forks": 0,
+      "license": "",
+      "last_pushed_at": "2026-05-20T11:30:08Z",
+      "reason": "Matched \"wechat mini program\" as a mini-program project with interesting app signals.",
+      "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
+      "source_query": "wechat mini program",
+      "score": 5
+    },
+    {
+      "date_found": "2026-06-22",
+      "id": 321534075,
+      "full_name": "ShawHan/Tool_Kit-Wechat-Mini-Program",
+      "name": "Tool_Kit-Wechat-Mini-Program",
+      "url": "https://github.com/ShawHan/Tool_Kit-Wechat-Mini-Program",
+      "description": "微信小程序-Box工具箱，集成了一些实用小工具：滚动弹幕，文章生成，笑话大全，名人名言，进制转换，日起计算，汇率计算，抽奖，随机数生成，扔骰子。",
+      "platforms": [
+        "mini-program"
+      ],
+      "categories": [],
+      "language": "JavaScript",
+      "stars": 8,
+      "forks": 0,
+      "license": "",
+      "last_pushed_at": "2025-08-26T10:31:53Z",
+      "reason": "Matched \"wechat mini program\" as a mini-program project with interesting app signals.",
+      "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
+      "source_query": "wechat mini program",
+      "score": 5
+    },
+    {
+      "date_found": "2026-06-22",
+      "id": 368371498,
+      "full_name": "SkyAPM/mini-program-monitor",
+      "name": "mini-program-monitor",
+      "url": "https://github.com/SkyAPM/mini-program-monitor",
+      "description": "WeChat & Alipay Mini Program Monitoring for Apache SkyWalking",
+      "platforms": [
+        "mini-program"
+      ],
+      "categories": [],
+      "language": "TypeScript",
+      "stars": 8,
+      "forks": 2,
+      "license": "Apache-2.0",
+      "last_pushed_at": "2026-04-21T04:40:34Z",
+      "reason": "Matched \"wechat mini program\" as a mini-program project with interesting app signals.",
+      "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
+      "source_query": "wechat mini program",
+      "score": 5
+    },
+    {
+      "date_found": "2026-06-22",
+      "id": 846561830,
+      "full_name": "Xposed-Modules-Repo/id.my.pjm.toys.nfcnci_patience",
+      "name": "id.my.pjm.toys.nfcnci_patience",
+      "url": "https://github.com/Xposed-Modules-Repo/id.my.pjm.toys.nfcnci_patience",
+      "description": "NfcNci Patience",
+      "platforms": [
+        "android"
+      ],
+      "categories": [],
+      "language": "",
+      "stars": 8,
+      "forks": 0,
+      "license": "",
+      "last_pushed_at": "2026-02-20T16:12:29Z",
+      "reason": "Matched \"android toy\" as a android project with interesting app signals.",
+      "dev_idea": "Wrap the idea as a focused Android app with friendly onboarding for non-technical users.",
+      "source_query": "android toy",
+      "score": 5
+    },
+    {
+      "date_found": "2026-06-22",
+      "id": 1252074873,
+      "full_name": "Olorinm/festival-miniapp",
+      "name": "festival-miniapp",
+      "url": "https://github.com/Olorinm/festival-miniapp",
+      "description": "Film festival planner WeChat Mini Program",
+      "platforms": [
+        "mini-program"
+      ],
+      "categories": [],
+      "language": "JavaScript",
+      "stars": 7,
+      "forks": 0,
+      "license": "",
+      "last_pushed_at": "2026-06-03T14:10:25Z",
+      "reason": "Matched \"wechat mini program\" as a mini-program project with interesting app signals.",
+      "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
+      "source_query": "wechat mini program",
+      "score": 5
+    },
+    {
+      "date_found": "2026-06-22",
+      "id": 1078737566,
+      "full_name": "broccoli-is-healthy/MatrixMate",
+      "name": "MatrixMate",
+      "url": "https://github.com/broccoli-is-healthy/MatrixMate",
+      "description": "Collection of GlyphMatrix Toys for the Nothing Phone (3)",
+      "platforms": [
+        "android"
+      ],
+      "categories": [],
+      "language": "Kotlin",
+      "stars": 6,
+      "forks": 0,
+      "license": "BSD-3-Clause",
+      "last_pushed_at": "2025-10-21T10:23:13Z",
+      "reason": "Matched \"android toy\" as a android project with interesting app signals.",
+      "dev_idea": "Wrap the idea as a focused Android app with friendly onboarding for non-technical users.",
+      "source_query": "android toy",
+      "score": 5
+    },
+    {
+      "date_found": "2026-06-22",
+      "id": 1003766309,
+      "full_name": "KaigeZheng/WeAI-Chat",
+      "name": "WeAI-Chat",
+      "url": "https://github.com/KaigeZheng/WeAI-Chat",
+      "description": "WeAI Chat: An open-source lightweight AI chat WeChat Mini Program",
+      "platforms": [
+        "mini-program"
+      ],
+      "categories": [],
+      "language": "JavaScript",
+      "stars": 6,
+      "forks": 1,
+      "license": "AGPL-3.0",
+      "last_pushed_at": "2025-07-29T16:07:36Z",
+      "reason": "Matched \"wechat mini program\" as a mini-program project with interesting app signals.",
+      "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
+      "source_query": "wechat mini program",
+      "score": 5
+    },
+    {
+      "date_found": "2026-06-22",
+      "id": 803084004,
+      "full_name": "Team-ToYou/ToYou-Android",
+      "name": "ToYou-Android",
+      "url": "https://github.com/Team-ToYou/ToYou-Android",
+      "description": "투유 - 당신을 만나는 매일의 질문 Android",
+      "platforms": [
+        "android"
+      ],
+      "categories": [],
+      "language": "Kotlin",
+      "stars": 6,
+      "forks": 3,
+      "license": "",
+      "last_pushed_at": "2025-12-31T09:45:38Z",
+      "reason": "Matched \"android toy\" as a android project with interesting app signals.",
+      "dev_idea": "Wrap the idea as a focused Android app with friendly onboarding for non-technical users.",
+      "source_query": "android toy",
+      "score": 5
+    },
+    {
+      "date_found": "2026-06-22",
+      "id": 888278142,
+      "full_name": "YcZhangSing/MiniProgram",
+      "name": "MiniProgram",
+      "url": "https://github.com/YcZhangSing/MiniProgram",
+      "description": "My WeChat MiniProgram of Wheat disease detection",
+      "platforms": [
+        "mini-program"
+      ],
+      "categories": [],
+      "language": "JavaScript",
+      "stars": 6,
+      "forks": 0,
+      "license": "",
+      "last_pushed_at": "2025-09-30T08:57:22Z",
+      "reason": "Matched \"wechat mini program\" as a mini-program project with interesting app signals.",
+      "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
+      "source_query": "wechat mini program",
+      "score": 5
+    },
+    {
+      "date_found": "2026-06-22",
+      "id": 1096606593,
+      "full_name": "HansenCCC/wechat-mini-program-path-fixer",
+      "name": "wechat-mini-program-path-fixer",
+      "url": "https://github.com/HansenCCC/wechat-mini-program-path-fixer",
+      "description": "这是一个 Node.js 脚本，旨在快速修复微信小程序逆向工程后常见的一些配置和路径问题。",
+      "platforms": [
+        "mini-program"
+      ],
+      "categories": [],
+      "language": "JavaScript",
+      "stars": 5,
+      "forks": 0,
+      "license": "",
+      "last_pushed_at": "2025-11-14T17:13:13Z",
+      "reason": "Matched \"wechat mini program\" as a mini-program project with interesting app signals.",
+      "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
+      "source_query": "wechat mini program",
+      "score": 5
+    },
+    {
+      "date_found": "2026-06-22",
+      "id": 1261265601,
+      "full_name": "liuxuan124/miniprogram-platform",
+      "name": "miniprogram-platform",
+      "url": "https://github.com/liuxuan124/miniprogram-platform",
+      "description": "WeChat mini program no-code builder and operations platform (Spring Boot + Vue3 + DSL renderer)",
+      "platforms": [
+        "mini-program"
+      ],
+      "categories": [],
+      "language": "Vue",
+      "stars": 5,
+      "forks": 0,
+      "license": "",
+      "last_pushed_at": "2026-06-18T02:18:06Z",
+      "reason": "Matched \"wechat mini program\" as a mini-program project with interesting app signals.",
+      "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
+      "source_query": "wechat mini program",
+      "score": 5
+    },
+    {
+      "date_found": "2026-06-22",
+      "id": 219731240,
+      "full_name": "selma-li/goodnight-mini",
+      "name": "goodnight-mini",
+      "url": "https://github.com/selma-li/goodnight-mini",
+      "description": "Goodnight Check-in WeChat Mini Program (taro) ",
+      "platforms": [
+        "mini-program"
+      ],
+      "categories": [],
+      "language": "TypeScript",
+      "stars": 5,
+      "forks": 1,
+      "license": "",
+      "last_pushed_at": "2025-12-19T00:15:12Z",
+      "reason": "Matched \"wechat mini program\" as a mini-program project with interesting app signals.",
+      "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
+      "source_query": "wechat mini program",
       "score": 5
     }
   ]

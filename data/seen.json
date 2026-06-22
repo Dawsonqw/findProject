@@ -60,10 +60,25 @@
       "first_seen_at": "2026-06-21",
       "source_query": "wechat mini program"
     },
+    "165234319": {
+      "full_name": "JetLua/wechat-adapter",
+      "first_seen_at": "2026-06-22",
+      "source_query": "mini game"
+    },
     "181687869": {
       "full_name": "wechat-miniprogram/minigame-api-typings",
       "first_seen_at": "2026-06-17",
       "source_query": "mini game"
+    },
+    "187346982": {
+      "full_name": "shusheng007/AnnotationProcessorToys",
+      "first_seen_at": "2026-06-22",
+      "source_query": "android toy"
+    },
+    "219731240": {
+      "full_name": "selma-li/goodnight-mini",
+      "first_seen_at": "2026-06-22",
+      "source_query": "wechat mini program"
     },
     "226627134": {
       "full_name": "abagames/crisp-game-lib",
@@ -80,6 +95,11 @@
       "first_seen_at": "2026-06-21",
       "source_query": "android toy"
     },
+    "321534075": {
+      "full_name": "ShawHan/Tool_Kit-Wechat-Mini-Program",
+      "first_seen_at": "2026-06-22",
+      "source_query": "wechat mini program"
+    },
     "332417024": {
       "full_name": "HeXavi8/Bugu-Sport",
       "first_seen_at": "2026-06-17",
@@ -89,6 +109,11 @@
       "full_name": "seladb/ToyVpn-PcapPlusPlus",
       "first_seen_at": "2026-06-19",
       "source_query": "android toy"
+    },
+    "368371498": {
+      "full_name": "SkyAPM/mini-program-monitor",
+      "first_seen_at": "2026-06-22",
+      "source_query": "wechat mini program"
     },
     "387269543": {
       "full_name": "Kirilllive/Fifteen_puzzle_maker",
@@ -165,6 +190,11 @@
       "first_seen_at": "2026-06-17",
       "source_query": "floating widget"
     },
+    "649667724": {
+      "full_name": "missannil/annil",
+      "first_seen_at": "2026-06-22",
+      "source_query": "wechat mini program"
+    },
     "674708374": {
       "full_name": "MuxaJlbl4/Game-Data-Mining",
       "first_seen_at": "2026-06-20",
@@ -195,6 +225,16 @@
       "first_seen_at": "2026-06-21",
       "source_query": "wechat mini program"
     },
+    "803084004": {
+      "full_name": "Team-ToYou/ToYou-Android",
+      "first_seen_at": "2026-06-22",
+      "source_query": "android toy"
+    },
+    "846561830": {
+      "full_name": "Xposed-Modules-Repo/id.my.pjm.toys.nfcnci_patience",
+      "first_seen_at": "2026-06-22",
+      "source_query": "android toy"
+    },
     "862315404": {
       "full_name": "endlessm/moddable-platformer",
       "first_seen_at": "2026-06-19",
@@ -209,6 +249,11 @@
       "full_name": "PondSec/JoeysSlimeventure",
       "first_seen_at": "2026-06-20",
       "source_query": "mini game"
+    },
+    "888278142": {
+      "full_name": "YcZhangSing/MiniProgram",
+      "first_seen_at": "2026-06-22",
+      "source_query": "wechat mini program"
     },
     "893431989": {
       "full_name": "TheNooodle/MinishootRandomizer",
@@ -245,6 +290,11 @@
       "first_seen_at": "2026-06-17",
       "source_query": "desktop pet"
     },
+    "1003766309": {
+      "full_name": "KaigeZheng/WeAI-Chat",
+      "first_seen_at": "2026-06-22",
+      "source_query": "wechat mini program"
+    },
     "1012965092": {
       "full_name": "YUHAO-corn/negative_review_helper",
       "first_seen_at": "2026-06-19",
@@ -280,9 +330,24 @@
       "first_seen_at": "2026-06-17",
       "source_query": "desktop pet"
     },
+    "1078737566": {
+      "full_name": "broccoli-is-healthy/MatrixMate",
+      "first_seen_at": "2026-06-22",
+      "source_query": "android toy"
+    },
     "1096156168": {
       "full_name": "yfmeii/weapp-dev-mcp",
       "first_seen_at": "2026-06-19",
+      "source_query": "wechat mini program"
+    },
+    "1096161596": {
+      "full_name": "SteamedBread2333/wx-miniprogram-waterfall",
+      "first_seen_at": "2026-06-22",
+      "source_query": "wechat mini program"
+    },
+    "1096606593": {
+      "full_name": "HansenCCC/wechat-mini-program-path-fixer",
+      "first_seen_at": "2026-06-22",
       "source_query": "wechat mini program"
     },
     "1118918636": {
@@ -395,6 +460,11 @@
       "first_seen_at": "2026-06-18",
       "source_query": "wechat mini program"
     },
+    "1199396693": {
+      "full_name": "KiskaSora/GameCollection",
+      "first_seen_at": "2026-06-22",
+      "source_query": "mini game"
+    },
     "1203570172": {
       "full_name": "biggiesmallcap-blip/NOORwave",
       "first_seen_at": "2026-06-17",
@@ -465,6 +535,11 @@
       "first_seen_at": "2026-06-18",
       "source_query": "desktop pet"
     },
+    "1240122841": {
+      "full_name": "michalmaj/cognitive-data-arcade",
+      "first_seen_at": "2026-06-22",
+      "source_query": "mini game"
+    },
     "1240485529": {
       "full_name": "MarcusBiel/roundcraft",
       "first_seen_at": "2026-06-21",
@@ -485,6 +560,11 @@
       "first_seen_at": "2026-06-17",
       "source_query": "desktop pet"
     },
+    "1248663089": {
+      "full_name": "yim7/AzusaMochi",
+      "first_seen_at": "2026-06-22",
+      "source_query": "desktop pet"
+    },
     "1249996553": {
       "full_name": "DataAxeagle/DockPetWin-Aemeath",
       "first_seen_at": "2026-06-18",
@@ -499,6 +579,11 @@
       "full_name": "shngboe-png/mitsuha-pet",
       "first_seen_at": "2026-06-18",
       "source_query": "desktop pet"
+    },
+    "1252074873": {
+      "full_name": "Olorinm/festival-miniapp",
+      "first_seen_at": "2026-06-22",
+      "source_query": "wechat mini program"
     },
     "1253176096": {
       "full_name": "Wanduforl/MacArkPet",
@@ -520,6 +605,11 @@
       "first_seen_at": "2026-06-18",
       "source_query": "desktop pet"
     },
+    "1261265601": {
+      "full_name": "liuxuan124/miniprogram-platform",
+      "first_seen_at": "2026-06-22",
+      "source_query": "wechat mini program"
+    },
     "1263615935": {
       "full_name": "dee-dee-catorce/deskpublic",
       "first_seen_at": "2026-06-17",
@@ -534,6 +624,16 @@
       "full_name": "Prince-cjml/xiaobei-pet-release",
       "first_seen_at": "2026-06-18",
       "source_query": "desktop pet"
+    },
+    "1270757283": {
+      "full_name": "WayneYe912/OhMyChiikawa",
+      "first_seen_at": "2026-06-22",
+      "source_query": "desktop pet"
+    },
+    "1272990439": {
+      "full_name": "cryptolandorg/Casino-Crash-Telegram-App",
+      "first_seen_at": "2026-06-22",
+      "source_query": "mini game"
     }
   }
 }
