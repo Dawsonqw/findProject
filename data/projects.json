@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-22T07:45:24.512Z",
-  "total_count": 127,
+  "generated_at": "2026-06-23T06:30:40.931Z",
+  "total_count": 132,
   "projects": [
     {
       "date_found": "2026-06-17",
@@ -2904,6 +2904,117 @@
       "forks": 1,
       "license": "",
       "last_pushed_at": "2025-12-19T00:15:12Z",
+      "reason": "Matched \"wechat mini program\" as a mini-program project with interesting app signals.",
+      "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
+      "source_query": "wechat mini program",
+      "score": 5
+    },
+    {
+      "date_found": "2026-06-23",
+      "id": 1143638370,
+      "full_name": "JodieRuth/Resona-Desktop-Pet",
+      "name": "Resona-Desktop-Pet",
+      "url": "https://github.com/JodieRuth/Resona-Desktop-Pet",
+      "description": "基于 PySide6 的 AI 桌面宠物引擎，在LLM，SoVITS与STT之间通信，实现半实时语音对话。支持自定义性格、语音及复杂的系统级触发逻辑。仅在Python 3.12.10进行测试。",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "Python",
+      "stars": 40,
+      "forks": 6,
+      "license": "MIT",
+      "last_pushed_at": "2026-06-22T14:11:01Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 17
+    },
+    {
+      "date_found": "2026-06-23",
+      "id": 536830754,
+      "full_name": "isHarryh/Ark-Pets",
+      "name": "Ark-Pets",
+      "url": "https://github.com/isHarryh/Ark-Pets",
+      "description": "Arknights Desktop Pets | 明日方舟桌宠 (ArkPets)",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "Java",
+      "stars": 981,
+      "forks": 49,
+      "license": "GPL-3.0",
+      "last_pushed_at": "2026-06-22T09:19:47Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 13
+    },
+    {
+      "date_found": "2026-06-23",
+      "id": 112462569,
+      "full_name": "tinajs/tina-router",
+      "name": "tina-router",
+      "url": "https://github.com/tinajs/tina-router",
+      "description": ":metro: An elegant enhanced router for Tina.js based Wechat-Mini-Program",
+      "platforms": [
+        "mini-program"
+      ],
+      "categories": [],
+      "language": "JavaScript",
+      "stars": 5,
+      "forks": 1,
+      "license": "Apache-2.0",
+      "last_pushed_at": "2026-06-10T20:32:21Z",
+      "reason": "Matched \"wechat mini program\" as a mini-program project with interesting app signals.",
+      "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
+      "source_query": "wechat mini program",
+      "score": 5
+    },
+    {
+      "date_found": "2026-06-23",
+      "id": 814433970,
+      "full_name": "xapenny/ShikiOrder-FrontEnd",
+      "name": "ShikiOrder-FrontEnd",
+      "url": "https://github.com/xapenny/ShikiOrder-FrontEnd",
+      "description": "A mobile ordering wechat mini program powered by Taro",
+      "platforms": [
+        "mini-program"
+      ],
+      "categories": [],
+      "language": "Vue",
+      "stars": 5,
+      "forks": 1,
+      "license": "MIT",
+      "last_pushed_at": "2024-08-19T11:53:23Z",
+      "reason": "Matched \"wechat mini program\" as a mini-program project with interesting app signals.",
+      "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
+      "source_query": "wechat mini program",
+      "score": 5
+    },
+    {
+      "date_found": "2026-06-23",
+      "id": 539265657,
+      "full_name": "xh-polaris/meowchat-app",
+      "name": "meowchat-app",
+      "url": "https://github.com/xh-polaris/meowchat-app",
+      "description": "Wechat mini program for MeowChat🐱",
+      "platforms": [
+        "mini-program"
+      ],
+      "categories": [],
+      "language": "Vue",
+      "stars": 5,
+      "forks": 13,
+      "license": "GPL-2.0",
+      "last_pushed_at": "2024-12-20T08:23:52Z",
       "reason": "Matched \"wechat mini program\" as a mini-program project with interesting app signals.",
       "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
       "source_query": "wechat mini program",

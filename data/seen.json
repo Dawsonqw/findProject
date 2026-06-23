@@ -30,6 +30,11 @@
       "first_seen_at": "2026-06-17",
       "source_query": "mini game"
     },
+    "112462569": {
+      "full_name": "tinajs/tina-router",
+      "first_seen_at": "2026-06-23",
+      "source_query": "wechat mini program"
+    },
     "114293592": {
       "full_name": "tinajs/wxio",
       "first_seen_at": "2026-06-21",
@@ -160,6 +165,16 @@
       "first_seen_at": "2026-06-18",
       "source_query": "mini game"
     },
+    "536830754": {
+      "full_name": "isHarryh/Ark-Pets",
+      "first_seen_at": "2026-06-23",
+      "source_query": "desktop pet"
+    },
+    "539265657": {
+      "full_name": "xh-polaris/meowchat-app",
+      "first_seen_at": "2026-06-23",
+      "source_query": "wechat mini program"
+    },
     "541339012": {
       "full_name": "aldoKelvianto/ToysApp",
       "first_seen_at": "2026-06-19",
@@ -229,6 +244,11 @@
       "full_name": "Team-ToYou/ToYou-Android",
       "first_seen_at": "2026-06-22",
       "source_query": "android toy"
+    },
+    "814433970": {
+      "full_name": "xapenny/ShikiOrder-FrontEnd",
+      "first_seen_at": "2026-06-23",
+      "source_query": "wechat mini program"
     },
     "846561830": {
       "full_name": "Xposed-Modules-Repo/id.my.pjm.toys.nfcnci_patience",
@@ -374,6 +394,11 @@
       "full_name": "Laykimhoung/MultiMiniGame",
       "first_seen_at": "2026-06-21",
       "source_query": "mini game"
+    },
+    "1143638370": {
+      "full_name": "JodieRuth/Resona-Desktop-Pet",
+      "first_seen_at": "2026-06-23",
+      "source_query": "desktop pet"
     },
     "1151325303": {
       "full_name": "ErskeN1337/Golem-Mining-Suite",
