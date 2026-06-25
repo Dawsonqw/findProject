@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T06:27:20.800Z",
-  "total_count": 132,
+  "generated_at": "2026-06-25T06:29:49.160Z",
+  "total_count": 134,
   "projects": [
     {
       "date_found": "2026-06-17",
@@ -3019,6 +3019,53 @@
       "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
       "source_query": "wechat mini program",
       "score": 5
+    },
+    {
+      "date_found": "2026-06-25",
+      "id": 541852536,
+      "full_name": "hotakutsuki/minichess",
+      "name": "minichess",
+      "url": "https://github.com/hotakutsuki/minichess",
+      "description": "A minichess game in flutter",
+      "platforms": [
+        "android",
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "Dart",
+      "stars": 5,
+      "forks": 0,
+      "license": "",
+      "last_pushed_at": "2026-06-25T03:47:12Z",
+      "reason": "Matched \"mini game\" as a android, game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 10
+    },
+    {
+      "date_found": "2026-06-25",
+      "id": 1121423396,
+      "full_name": "NachoOFC/mini-games",
+      "name": "mini-games",
+      "url": "https://github.com/NachoOFC/mini-games",
+      "description": "jueguitos clasicos",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "JavaScript",
+      "stars": 5,
+      "forks": 0,
+      "license": "",
+      "last_pushed_at": "2026-06-19T02:42:47Z",
+      "reason": "Matched \"mini game\" as a game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 7
     }
   ]
 }
