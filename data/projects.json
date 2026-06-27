@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T06:32:07.504Z",
-  "total_count": 135,
+  "generated_at": "2026-06-27T06:05:50.027Z",
+  "total_count": 136,
   "projects": [
     {
       "date_found": "2026-06-17",
@@ -3091,6 +3091,29 @@
       "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
       "source_query": "desktop pet",
       "score": 17
+    },
+    {
+      "date_found": "2026-06-27",
+      "id": 1207065401,
+      "full_name": "UmangJangir/mini-projects",
+      "name": "mini-projects",
+      "url": "https://github.com/UmangJangir/mini-projects",
+      "description": "A simple Rock-Paper-Scissors game built using python",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "Python",
+      "stars": 6,
+      "forks": 1,
+      "license": "",
+      "last_pushed_at": "2026-06-26T16:02:41Z",
+      "reason": "Matched \"mini game\" as a game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 7
     }
   ]
 }
