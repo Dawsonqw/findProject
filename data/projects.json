@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T06:40:02.748Z",
-  "total_count": 136,
+  "generated_at": "2026-06-29T07:10:47.909Z",
+  "total_count": 137,
   "projects": [
     {
       "date_found": "2026-06-17",
@@ -3114,6 +3114,32 @@
       "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
       "source_query": "mini game",
       "score": 7
+    },
+    {
+      "date_found": "2026-06-29",
+      "id": 1212312466,
+      "full_name": "nucket/NekoAI",
+      "name": "NekoAI",
+      "url": "https://github.com/nucket/NekoAI",
+      "description": "🐱 AI-powered desktop pet inspired by the classic Neko. Roams your screen, reacts to your windows, and chats with you via Gemini, Claude, OpenAI, nVidia NIM or Ollama. Built with Tauri + Rust. ",
+      "platforms": [
+        "desktop",
+        "game",
+        "windows"
+      ],
+      "categories": [
+        "pet",
+        "visual"
+      ],
+      "language": "TypeScript",
+      "stars": 5,
+      "forks": 1,
+      "license": "MIT",
+      "last_pushed_at": "2026-06-28T07:37:51Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game, windows project with pet, visual signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 13
     }
   ]
 }
