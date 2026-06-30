@@ -255,6 +255,11 @@
       "first_seen_at": "2026-06-23",
       "source_query": "wechat mini program"
     },
+    "820300784": {
+      "full_name": "nikandr-surkov/Hamster-Kombat-Telegram-Mini-App-Clone",
+      "first_seen_at": "2026-06-30",
+      "source_query": "mini game"
+    },
     "846561830": {
       "full_name": "Xposed-Modules-Repo/id.my.pjm.toys.nfcnci_patience",
       "first_seen_at": "2026-06-22",
@@ -414,6 +419,11 @@
       "full_name": "ErskeN1337/Golem-Mining-Suite",
       "first_seen_at": "2026-06-20",
       "source_query": "mini game"
+    },
+    "1154519039": {
+      "full_name": "wangeguo/pet",
+      "first_seen_at": "2026-06-30",
+      "source_query": "desktop pet"
     },
     "1155507082": {
       "full_name": "x380kkm/Live2DPet",
@@ -648,6 +658,11 @@
     "1260969825": {
       "full_name": "sunziqin/XunPet",
       "first_seen_at": "2026-06-18",
+      "source_query": "desktop pet"
+    },
+    "1261146689": {
+      "full_name": "Myf-ricey/GooglePiggy_DesktopPet",
+      "first_seen_at": "2026-06-30",
       "source_query": "desktop pet"
     },
     "1261265601": {

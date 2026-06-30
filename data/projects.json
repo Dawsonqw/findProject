@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T07:10:47.909Z",
-  "total_count": 137,
+  "generated_at": "2026-06-30T06:35:34.235Z",
+  "total_count": 140,
   "projects": [
     {
       "date_found": "2026-06-17",
@@ -3140,6 +3140,78 @@
       "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
       "source_query": "desktop pet",
       "score": 13
+    },
+    {
+      "date_found": "2026-06-30",
+      "id": 1261146689,
+      "full_name": "Myf-ricey/GooglePiggy_DesktopPet",
+      "name": "GooglePiggy_DesktopPet",
+      "url": "https://github.com/Myf-ricey/GooglePiggy_DesktopPet",
+      "description": "Windows GIF pig desktop pet with Codex status hooks",
+      "platforms": [
+        "desktop",
+        "game",
+        "windows"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "Python",
+      "stars": 5,
+      "forks": 0,
+      "license": "MIT",
+      "last_pushed_at": "2026-06-09T12:47:50Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game, windows project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 13
+    },
+    {
+      "date_found": "2026-06-30",
+      "id": 1154519039,
+      "full_name": "wangeguo/pet",
+      "name": "pet",
+      "url": "https://github.com/wangeguo/pet",
+      "description": "AI-driven intelligent desktop companion with personalized 3D pets, intent-aware interaction, and dynamic behaviors.",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "Rust",
+      "stars": 5,
+      "forks": 0,
+      "license": "Apache-2.0",
+      "last_pushed_at": "2026-06-30T01:37:54Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 13
+    },
+    {
+      "date_found": "2026-06-30",
+      "id": 820300784,
+      "full_name": "nikandr-surkov/Hamster-Kombat-Telegram-Mini-App-Clone",
+      "name": "Hamster-Kombat-Telegram-Mini-App-Clone",
+      "url": "https://github.com/nikandr-surkov/Hamster-Kombat-Telegram-Mini-App-Clone",
+      "description": "Free Hamster Kombat clone — learn to build a Telegram Mini App tap-to-earn game with Next.js & TypeScript. Full production-ready source code + video guide available.",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "TypeScript",
+      "stars": 268,
+      "forks": 311,
+      "license": "",
+      "last_pushed_at": "2026-06-29T15:49:39Z",
+      "reason": "Matched \"mini game\" as a game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 11
     }
   ]
 }
