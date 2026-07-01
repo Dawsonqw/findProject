@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T06:35:34.235Z",
-  "total_count": 140,
+  "generated_at": "2026-07-01T06:48:35.539Z",
+  "total_count": 142,
   "projects": [
     {
       "date_found": "2026-06-17",
@@ -3212,6 +3212,52 @@
       "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
       "source_query": "mini game",
       "score": 11
+    },
+    {
+      "date_found": "2026-07-01",
+      "id": 961384267,
+      "full_name": "SlimeBoyOwO/LingChat",
+      "name": "LingChat",
+      "url": "https://github.com/SlimeBoyOwO/LingChat",
+      "description": "Immersive AI-driven Galgame chat with emotional expressions, desktop pet, scheduling, and interactive story modules. / 一款沉浸式 AI-Galgame 聊天软件，附带桌宠，日程，剧情功能",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "game",
+        "pet"
+      ],
+      "language": "Rust",
+      "stars": 1065,
+      "forks": 84,
+      "license": "AGPL-3.0",
+      "last_pushed_at": "2026-06-30T14:58:18Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with game, pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 18
+    },
+    {
+      "date_found": "2026-07-01",
+      "id": 1284793621,
+      "full_name": "Scottmaq/Wechat-AI-resume-Mini-Program",
+      "name": "Wechat-AI-resume-Mini-Program",
+      "url": "https://github.com/Scottmaq/Wechat-AI-resume-Mini-Program",
+      "description": "AI-powered WeChat Mini Program for resume analysis, optimization, generation, and mock payment",
+      "platforms": [
+        "mini-program"
+      ],
+      "categories": [],
+      "language": "JavaScript",
+      "stars": 6,
+      "forks": 0,
+      "license": "MIT",
+      "last_pushed_at": "2026-06-30T08:09:50Z",
+      "reason": "Matched \"wechat mini program\" as a mini-program project with interesting app signals.",
+      "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
+      "source_query": "wechat mini program",
+      "score": 5
     }
   ]
 }

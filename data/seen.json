@@ -310,6 +310,11 @@
       "first_seen_at": "2026-06-21",
       "source_query": "wechat mini program"
     },
+    "961384267": {
+      "full_name": "SlimeBoyOwO/LingChat",
+      "first_seen_at": "2026-07-01",
+      "source_query": "desktop pet"
+    },
     "997929274": {
       "full_name": "abcnull/godot-mini-games-demo",
       "first_seen_at": "2026-06-21",
@@ -699,6 +704,11 @@
       "full_name": "cryptolandorg/Casino-Crash-Telegram-App",
       "first_seen_at": "2026-06-22",
       "source_query": "mini game"
+    },
+    "1284793621": {
+      "full_name": "Scottmaq/Wechat-AI-resume-Mini-Program",
+      "first_seen_at": "2026-07-01",
+      "source_query": "wechat mini program"
     }
   }
 }
