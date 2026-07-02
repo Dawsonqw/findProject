@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T06:48:35.539Z",
-  "total_count": 142,
+  "generated_at": "2026-07-02T06:13:12.626Z",
+  "total_count": 143,
   "projects": [
     {
       "date_found": "2026-06-17",
@@ -3258,6 +3258,30 @@
       "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
       "source_query": "wechat mini program",
       "score": 5
+    },
+    {
+      "date_found": "2026-07-02",
+      "id": 1156849744,
+      "full_name": "DongH-Chen/Catppuccino",
+      "name": "Catppuccino",
+      "url": "https://github.com/DongH-Chen/Catppuccino",
+      "description": "Desktop pet cat.",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "Kotlin",
+      "stars": 18,
+      "forks": 1,
+      "license": "",
+      "last_pushed_at": "2026-07-01T12:05:55Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 13
     }
   ]
 }
