@@ -600,6 +600,11 @@
       "first_seen_at": "2026-06-18",
       "source_query": "desktop pet"
     },
+    "1238433652": {
+      "full_name": "ZYC99/line-dog-desktop-pet",
+      "first_seen_at": "2026-07-03",
+      "source_query": "desktop pet"
+    },
     "1240122841": {
       "full_name": "michalmaj/cognitive-data-arcade",
       "first_seen_at": "2026-06-22",
@@ -623,6 +628,11 @@
     "1242473355": {
       "full_name": "OpenBMB/MiniCPM-Desk-Pet",
       "first_seen_at": "2026-06-17",
+      "source_query": "desktop pet"
+    },
+    "1242565101": {
+      "full_name": "Koishi007/koishi-ai-pet",
+      "first_seen_at": "2026-07-03",
       "source_query": "desktop pet"
     },
     "1248663089": {
@@ -714,6 +724,11 @@
       "full_name": "Scottmaq/Wechat-AI-resume-Mini-Program",
       "first_seen_at": "2026-07-01",
       "source_query": "wechat mini program"
+    },
+    "1287326388": {
+      "full_name": "tigercosmos/aoe-mini",
+      "first_seen_at": "2026-07-03",
+      "source_query": "mini game"
     }
   }
 }

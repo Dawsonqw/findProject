@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-02T06:13:12.626Z",
-  "total_count": 143,
+  "generated_at": "2026-07-03T06:06:14.328Z",
+  "total_count": 146,
   "projects": [
     {
       "date_found": "2026-06-17",
@@ -3282,6 +3282,78 @@
       "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
       "source_query": "desktop pet",
       "score": 13
+    },
+    {
+      "date_found": "2026-07-03",
+      "id": 1242565101,
+      "full_name": "Koishi007/koishi-ai-pet",
+      "name": "koishi-ai-pet",
+      "url": "https://github.com/Koishi007/koishi-ai-pet",
+      "description": "Based on PySide6 + LLM, this is a desktop AI virtual pet featuring the character Koishi Komeiji from the Touhou Project. It can perceive the screen, interact with windows, and have conversations with you.",
+      "platforms": [
+        "desktop",
+        "game",
+        "windows"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "Python",
+      "stars": 5,
+      "forks": 1,
+      "license": "GPL-3.0",
+      "last_pushed_at": "2026-07-01T14:59:42Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game, windows project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 13
+    },
+    {
+      "date_found": "2026-07-03",
+      "id": 1238433652,
+      "full_name": "ZYC99/line-dog-desktop-pet",
+      "name": "line-dog-desktop-pet",
+      "url": "https://github.com/ZYC99/line-dog-desktop-pet",
+      "description": "线条小狗桌宠项目 - Line Dog Desktop Pet",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "Python",
+      "stars": 5,
+      "forks": 0,
+      "license": "",
+      "last_pushed_at": "2026-07-02T18:15:49Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 13
+    },
+    {
+      "date_found": "2026-07-03",
+      "id": 1287326388,
+      "full_name": "tigercosmos/aoe-mini",
+      "name": "aoe-mini",
+      "url": "https://github.com/tigercosmos/aoe-mini",
+      "description": "AI-generated AOE Mini Game",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "TypeScript",
+      "stars": 6,
+      "forks": 1,
+      "license": "",
+      "last_pushed_at": "2026-07-03T04:27:43Z",
+      "reason": "Matched \"mini game\" as a game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 7
     }
   ]
 }
