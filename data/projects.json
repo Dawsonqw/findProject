@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T06:06:14.328Z",
-  "total_count": 146,
+  "generated_at": "2026-07-04T05:57:05.729Z",
+  "total_count": 147,
   "projects": [
     {
       "date_found": "2026-06-17",
@@ -3354,6 +3354,30 @@
       "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
       "source_query": "mini game",
       "score": 7
+    },
+    {
+      "date_found": "2026-07-04",
+      "id": 1278166079,
+      "full_name": "YingyiDai/bambu-buddy",
+      "name": "bambu-buddy",
+      "url": "https://github.com/YingyiDai/bambu-buddy",
+      "description": "🐼 A desktop pet panda that lives on your screen and reacts to your Bambu Lab 3D printer.",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "JavaScript",
+      "stars": 5,
+      "forks": 0,
+      "license": "NOASSERTION",
+      "last_pushed_at": "2026-07-03T16:19:31Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 13
     }
   ]
 }
