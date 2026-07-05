@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T05:57:05.729Z",
-  "total_count": 147,
+  "generated_at": "2026-07-05T06:17:39.269Z",
+  "total_count": 148,
   "projects": [
     {
       "date_found": "2026-06-17",
@@ -3378,6 +3378,27 @@
       "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
       "source_query": "desktop pet",
       "score": 13
+    },
+    {
+      "date_found": "2026-07-05",
+      "id": 1255138243,
+      "full_name": "ghostmss86-afk/wechat-miniprogram-auto-port-deploy",
+      "name": "wechat-miniprogram-auto-port-deploy",
+      "url": "https://github.com/ghostmss86-afk/wechat-miniprogram-auto-port-deploy",
+      "description": "Codex Skill for WeChat Mini Program automation | 微信小程序开发、迁移、校验、预览上传、CloudBase、审核材料自动化",
+      "platforms": [
+        "mini-program"
+      ],
+      "categories": [],
+      "language": "JavaScript",
+      "stars": 5,
+      "forks": 0,
+      "license": "MIT",
+      "last_pushed_at": "2026-06-01T03:18:55Z",
+      "reason": "Matched \"wechat mini program\" as a mini-program project with interesting app signals.",
+      "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
+      "source_query": "wechat mini program",
+      "score": 5
     }
   ]
 }
