@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T06:17:39.269Z",
-  "total_count": 148,
+  "generated_at": "2026-07-06T06:49:43.005Z",
+  "total_count": 151,
   "projects": [
     {
       "date_found": "2026-06-17",
@@ -3399,6 +3399,78 @@
       "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
       "source_query": "wechat mini program",
       "score": 5
+    },
+    {
+      "date_found": "2026-07-06",
+      "id": 1070495506,
+      "full_name": "kuxiaowo/AIpet-Murasame",
+      "name": "AIpet-Murasame",
+      "url": "https://github.com/kuxiaowo/AIpet-Murasame",
+      "description": "一个基于 AI 的桌面宠物应用，灵感来自丛雨角色。An AI-based desktop pet application inspired by the character Murasame.",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "Python",
+      "stars": 41,
+      "forks": 3,
+      "license": "AGPL-3.0",
+      "last_pushed_at": "2026-06-27T09:18:22Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 17
+    },
+    {
+      "date_found": "2026-07-06",
+      "id": 1013059497,
+      "full_name": "Xiasts/DesktopPet",
+      "name": "DesktopPet",
+      "url": "https://github.com/Xiasts/DesktopPet",
+      "description": "🎮 一个基于C# WinForms开发的智能桌面宠物应用，采用多种设计模式实现，具备AI对话、日程提醒、物理交互等功能。A smart desktop pet application developed with C# WinForms, featuring AI chat, schedule reminders, and physics interactions",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "C#",
+      "stars": 7,
+      "forks": 0,
+      "license": "MIT",
+      "last_pushed_at": "2026-07-05T06:24:13Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 13
+    },
+    {
+      "date_found": "2026-07-06",
+      "id": 1283404870,
+      "full_name": "lrdcxdes/dota2-boot-breaker",
+      "name": "dota2-boot-breaker",
+      "url": "https://github.com/lrdcxdes/dota2-boot-breaker",
+      "description": "Dota 2 Boot Breaker Auto-Player (Dark Carnival Mini-Game)",
+      "platforms": [
+        "game",
+        "tool"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "Python",
+      "stars": 5,
+      "forks": 1,
+      "license": "MIT",
+      "last_pushed_at": "2026-06-28T22:31:46Z",
+      "reason": "Matched \"mini game\" as a game, tool project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 7
     }
   ]
 }

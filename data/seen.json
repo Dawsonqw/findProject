@@ -335,6 +335,11 @@
       "first_seen_at": "2026-06-19",
       "source_query": "wechat mini program"
     },
+    "1013059497": {
+      "full_name": "Xiasts/DesktopPet",
+      "first_seen_at": "2026-07-06",
+      "source_query": "desktop pet"
+    },
     "1038813733": {
       "full_name": "Sid-1996/BrownDust2-Beat-Helper",
       "first_seen_at": "2026-06-20",
@@ -359,6 +364,11 @@
       "full_name": "nianxie/NianxieMini",
       "first_seen_at": "2026-06-20",
       "source_query": "mini game"
+    },
+    "1070495506": {
+      "full_name": "kuxiaowo/AIpet-Murasame",
+      "first_seen_at": "2026-07-06",
+      "source_query": "desktop pet"
     },
     "1074584672": {
       "full_name": "Marksonthegamer/Mate-Engine-Linux-Port",
@@ -729,6 +739,11 @@
       "full_name": "YingyiDai/bambu-buddy",
       "first_seen_at": "2026-07-04",
       "source_query": "desktop pet"
+    },
+    "1283404870": {
+      "full_name": "lrdcxdes/dota2-boot-breaker",
+      "first_seen_at": "2026-07-06",
+      "source_query": "mini game"
     },
     "1284793621": {
       "full_name": "Scottmaq/Wechat-AI-resume-Mini-Program",
