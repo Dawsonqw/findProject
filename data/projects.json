@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T06:49:43.005Z",
-  "total_count": 151,
+  "generated_at": "2026-07-07T06:27:27.857Z",
+  "total_count": 153,
   "projects": [
     {
       "date_found": "2026-06-17",
@@ -3468,6 +3468,54 @@
       "license": "MIT",
       "last_pushed_at": "2026-06-28T22:31:46Z",
       "reason": "Matched \"mini game\" as a game, tool project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 7
+    },
+    {
+      "date_found": "2026-07-07",
+      "id": 916015602,
+      "full_name": "AkshitIreddy/convai-desktop-pet",
+      "name": "convai-desktop-pet",
+      "url": "https://github.com/AkshitIreddy/convai-desktop-pet",
+      "description": "Convai Desktop Pet is a fun desktop companion app that brings animated chibi-style characters to life on your screen. These little friends don't just sit there — they walk around, climb your windows, fall with gravity, and best of all, you can have real conversations with them using AI!",
+      "platforms": [
+        "desktop",
+        "game",
+        "windows"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "TypeScript",
+      "stars": 13,
+      "forks": 3,
+      "license": "MIT",
+      "last_pushed_at": "2026-07-06T23:00:06Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game, windows project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 13
+    },
+    {
+      "date_found": "2026-07-07",
+      "id": 1221605346,
+      "full_name": "AhmadHassan-BTed/RoseWish",
+      "name": "RoseWish",
+      "url": "https://github.com/AhmadHassan-BTed/RoseWish",
+      "description": "A heartfelt, interactive narrative mini-game built in Python for Rose Day. Features custom entities, a dynamic dialogue system, animated particle effects, and integrated audio to deliver a unique, romantic digital experience.",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "Python",
+      "stars": 8,
+      "forks": 0,
+      "license": "MIT",
+      "last_pushed_at": "2026-07-06T06:05:57Z",
+      "reason": "Matched \"mini game\" as a game project with game signals.",
       "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
       "source_query": "mini game",
       "score": 7
