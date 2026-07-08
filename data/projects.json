@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-07T06:27:27.857Z",
-  "total_count": 153,
+  "generated_at": "2026-07-08T05:33:29.004Z",
+  "total_count": 155,
   "projects": [
     {
       "date_found": "2026-06-17",
@@ -3516,6 +3516,54 @@
       "license": "MIT",
       "last_pushed_at": "2026-07-06T06:05:57Z",
       "reason": "Matched \"mini game\" as a game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 7
+    },
+    {
+      "date_found": "2026-07-08",
+      "id": 1290553178,
+      "full_name": "Sabrina-creater/claude-pet",
+      "name": "claude-pet",
+      "url": "https://github.com/Sabrina-creater/claude-pet",
+      "description": "🐾 macOS desktop pet: turn your own pet's photos/videos into a living desktop companion via fully-offline AI matting; reacts to your Claude Code sessions",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "JavaScript",
+      "stars": 8,
+      "forks": 0,
+      "license": "MIT",
+      "last_pushed_at": "2026-07-07T09:31:20Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 13
+    },
+    {
+      "date_found": "2026-07-08",
+      "id": 1217093254,
+      "full_name": "AbhiDevkota/PixelPulse",
+      "name": "PixelPulse",
+      "url": "https://github.com/AbhiDevkota/PixelPulse",
+      "description": "This is the Retro style version of the gaming console with a collection of classic mini games.",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game",
+        "visual"
+      ],
+      "language": "C++",
+      "stars": 5,
+      "forks": 0,
+      "license": "",
+      "last_pushed_at": "2026-07-02T04:45:33Z",
+      "reason": "Matched \"mini game\" as a game project with game, visual signals.",
       "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
       "source_query": "mini game",
       "score": 7

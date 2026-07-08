@@ -565,6 +565,11 @@
       "first_seen_at": "2026-06-29",
       "source_query": "desktop pet"
     },
+    "1217093254": {
+      "full_name": "AbhiDevkota/PixelPulse",
+      "first_seen_at": "2026-07-08",
+      "source_query": "mini game"
+    },
     "1221605346": {
       "full_name": "AhmadHassan-BTed/RoseWish",
       "first_seen_at": "2026-07-07",
@@ -764,6 +769,11 @@
       "full_name": "tigercosmos/aoe-mini",
       "first_seen_at": "2026-07-03",
       "source_query": "mini game"
+    },
+    "1290553178": {
+      "full_name": "Sabrina-creater/claude-pet",
+      "first_seen_at": "2026-07-08",
+      "source_query": "desktop pet"
     }
   }
 }
