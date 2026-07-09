@@ -755,6 +755,11 @@
       "first_seen_at": "2026-07-04",
       "source_query": "desktop pet"
     },
+    "1281228395": {
+      "full_name": "Mathieu-bot/petdex-linux",
+      "first_seen_at": "2026-07-09",
+      "source_query": "desktop pet"
+    },
     "1283404870": {
       "full_name": "lrdcxdes/dota2-boot-breaker",
       "first_seen_at": "2026-07-06",
@@ -769,6 +774,11 @@
       "full_name": "tigercosmos/aoe-mini",
       "first_seen_at": "2026-07-03",
       "source_query": "mini game"
+    },
+    "1289381865": {
+      "full_name": "chengbuilds/PetPhrase",
+      "first_seen_at": "2026-07-09",
+      "source_query": "desktop pet"
     },
     "1290553178": {
       "full_name": "Sabrina-creater/claude-pet",

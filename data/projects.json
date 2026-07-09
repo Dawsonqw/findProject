@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T05:33:29.004Z",
-  "total_count": 155,
+  "generated_at": "2026-07-09T06:24:07.101Z",
+  "total_count": 157,
   "projects": [
     {
       "date_found": "2026-06-17",
@@ -3567,6 +3567,58 @@
       "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
       "source_query": "mini game",
       "score": 7
+    },
+    {
+      "date_found": "2026-07-09",
+      "id": 1281228395,
+      "full_name": "Mathieu-bot/petdex-linux",
+      "name": "petdex-linux",
+      "url": "https://github.com/Mathieu-bot/petdex-linux",
+      "description": "A floating desktop pet companion for Linux — animated sprite that reacts to your desktop activity",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "pet",
+        "widget"
+      ],
+      "language": "JavaScript",
+      "stars": 5,
+      "forks": 0,
+      "license": "",
+      "last_pushed_at": "2026-06-27T07:50:42Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with pet, widget signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 17
+    },
+    {
+      "date_found": "2026-07-09",
+      "id": 1289381865,
+      "full_name": "chengbuilds/PetPhrase",
+      "name": "PetPhrase",
+      "url": "https://github.com/chengbuilds/PetPhrase",
+      "description": "Windows 桌宠常用语/话术工具:点击桌宠弹面板,一键复制快捷回复 | Lightweight desktop pet + phrase & canned-response manager for Windows. One-click copy quick replies. petdex pets, Rust + Slint.",
+      "platforms": [
+        "desktop",
+        "game",
+        "tool",
+        "windows"
+      ],
+      "categories": [
+        "pet",
+        "productivity"
+      ],
+      "language": "Rust",
+      "stars": 8,
+      "forks": 1,
+      "license": "MIT",
+      "last_pushed_at": "2026-07-09T06:15:56Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game, tool, windows project with pet, productivity signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 13
     }
   ]
 }
