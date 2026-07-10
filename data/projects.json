@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T06:24:07.101Z",
-  "total_count": 157,
+  "generated_at": "2026-07-10T06:23:42.144Z",
+  "total_count": 158,
   "projects": [
     {
       "date_found": "2026-06-17",
@@ -3619,6 +3619,29 @@
       "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
       "source_query": "desktop pet",
       "score": 13
+    },
+    {
+      "date_found": "2026-07-10",
+      "id": 1295778727,
+      "full_name": "chrishub1996/danzx-gaming-hub",
+      "name": "danzx-gaming-hub",
+      "url": "https://github.com/chrishub1996/danzx-gaming-hub",
+      "description": "A browser gaming hub combining football mini-games, Minecraft-style content, and general games in one interface. No install needed, under 1 MB, open-source.",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "HTML",
+      "stars": 10,
+      "forks": 0,
+      "license": "GPL-3.0",
+      "last_pushed_at": "2026-07-10T06:21:07Z",
+      "reason": "Matched \"mini game\" as a game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 7
     }
   ]
 }
