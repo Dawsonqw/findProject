@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T06:23:42.144Z",
-  "total_count": 158,
+  "generated_at": "2026-07-11T05:24:06.424Z",
+  "total_count": 159,
   "projects": [
     {
       "date_found": "2026-06-17",
@@ -3642,6 +3642,31 @@
       "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
       "source_query": "mini game",
       "score": 7
+    },
+    {
+      "date_found": "2026-07-11",
+      "id": 1291966014,
+      "full_name": "winwinking/FloweyPet",
+      "name": "FloweyPet",
+      "url": "https://github.com/winwinking/FloweyPet",
+      "description": "A Windows desktop pet starring Flowey from Undertale (Python + PyQt6)",
+      "platforms": [
+        "desktop",
+        "game",
+        "windows"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "Python",
+      "stars": 5,
+      "forks": 0,
+      "license": "MIT",
+      "last_pushed_at": "2026-07-08T07:32:47Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game, windows project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 13
     }
   ]
 }
