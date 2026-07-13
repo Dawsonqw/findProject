@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T05:40:29.481Z",
-  "total_count": 159,
+  "generated_at": "2026-07-13T05:50:48.393Z",
+  "total_count": 161,
   "projects": [
     {
       "date_found": "2026-06-17",
@@ -3667,6 +3667,50 @@
       "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
       "source_query": "desktop pet",
       "score": 13
+    },
+    {
+      "date_found": "2026-07-13",
+      "id": 1283180843,
+      "full_name": "venkatesh-0007/Motion_Shooter",
+      "name": "Motion_Shooter",
+      "url": "https://github.com/venkatesh-0007/Motion_Shooter",
+      "description": "Mini game which use mobile as motion joystick and laptop's display as game display to play games!",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "JavaScript",
+      "stars": 5,
+      "forks": 0,
+      "license": "",
+      "last_pushed_at": "2026-07-10T17:07:25Z",
+      "reason": "Matched \"mini game\" as a game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 7
+    },
+    {
+      "date_found": "2026-07-13",
+      "id": 1298296498,
+      "full_name": "ideaseek-zh/card-studio",
+      "name": "card-studio",
+      "url": "https://github.com/ideaseek-zh/card-studio",
+      "description": "Card Studio is an open-source WeChat digital business card mini program by ideaSeek. It combines digital business cards, card sharing, company profiles, portfolio showcases, CRM, and analytics into one platform, helping businesses present their brand, engage prospects, and capture customer relationships within the WeChat ecosystem.",
+      "platforms": [
+        "mini-program"
+      ],
+      "categories": [],
+      "language": "Vue",
+      "stars": 6,
+      "forks": 0,
+      "license": "MIT",
+      "last_pushed_at": "2026-07-12T13:38:52Z",
+      "reason": "Matched \"wechat mini program\" as a mini-program project with interesting app signals.",
+      "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
+      "source_query": "wechat mini program",
+      "score": 5
     }
   ]
 }

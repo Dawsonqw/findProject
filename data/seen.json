@@ -760,6 +760,11 @@
       "first_seen_at": "2026-07-09",
       "source_query": "desktop pet"
     },
+    "1283180843": {
+      "full_name": "venkatesh-0007/Motion_Shooter",
+      "first_seen_at": "2026-07-13",
+      "source_query": "mini game"
+    },
     "1283404870": {
       "full_name": "lrdcxdes/dota2-boot-breaker",
       "first_seen_at": "2026-07-06",
@@ -794,6 +799,11 @@
       "full_name": "chrishub1996/danzx-gaming-hub",
       "first_seen_at": "2026-07-10",
       "source_query": "mini game"
+    },
+    "1298296498": {
+      "full_name": "ideaseek-zh/card-studio",
+      "first_seen_at": "2026-07-13",
+      "source_query": "wechat mini program"
     }
   }
 }
