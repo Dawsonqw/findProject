@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T05:50:48.393Z",
-  "total_count": 161,
+  "generated_at": "2026-07-14T05:11:43.955Z",
+  "total_count": 162,
   "projects": [
     {
       "date_found": "2026-06-17",
@@ -3711,6 +3711,30 @@
       "dev_idea": "Simplify setup, add presets, and expose the main behavior through a friendly UI for non-technical users.",
       "source_query": "wechat mini program",
       "score": 5
+    },
+    {
+      "date_found": "2026-07-14",
+      "id": 1299145493,
+      "full_name": "lyhkevin/Codex_pet_naiwa",
+      "name": "Codex_pet_naiwa",
+      "url": "https://github.com/lyhkevin/Codex_pet_naiwa",
+      "description": "一个可直接安装到 Codex Desktop 的奶蛙动态宠物",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "",
+      "stars": 5,
+      "forks": 0,
+      "license": "",
+      "last_pushed_at": "2026-07-13T10:18:33Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 13
     }
   ]
 }
