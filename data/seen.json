@@ -535,6 +535,11 @@
       "first_seen_at": "2026-06-22",
       "source_query": "mini game"
     },
+    "1201960789": {
+      "full_name": "mm7894215/TokenTracker",
+      "first_seen_at": "2026-07-15",
+      "source_query": "desktop pet"
+    },
     "1203570172": {
       "full_name": "biggiesmallcap-blip/NOORwave",
       "first_seen_at": "2026-06-17",
@@ -573,6 +578,11 @@
     "1221605346": {
       "full_name": "AhmadHassan-BTed/RoseWish",
       "first_seen_at": "2026-07-07",
+      "source_query": "mini game"
+    },
+    "1222818271": {
+      "full_name": "open-rais/immich-minigames",
+      "first_seen_at": "2026-07-15",
       "source_query": "mini game"
     },
     "1226256828": {
@@ -804,6 +814,11 @@
       "full_name": "ideaseek-zh/card-studio",
       "first_seen_at": "2026-07-13",
       "source_query": "wechat mini program"
+    },
+    "1299048824": {
+      "full_name": "blackbird-9/ResidentEvilDesktopPet",
+      "first_seen_at": "2026-07-15",
+      "source_query": "desktop pet"
     },
     "1299145493": {
       "full_name": "lyhkevin/Codex_pet_naiwa",
