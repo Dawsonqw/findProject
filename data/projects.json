@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T05:11:55.371Z",
-  "total_count": 165,
+  "generated_at": "2026-07-16T05:22:42.653Z",
+  "total_count": 166,
   "projects": [
     {
       "date_found": "2026-06-17",
@@ -3808,6 +3808,30 @@
       "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
       "source_query": "mini game",
       "score": 7
+    },
+    {
+      "date_found": "2026-07-16",
+      "id": 1005922068,
+      "full_name": "CharlesWiiFlowers/MikuPet",
+      "name": "MikuPet",
+      "url": "https://github.com/CharlesWiiFlowers/MikuPet",
+      "description": "A virtual desktop pet like Shimeji inspired by Hatsune Miku.",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "Python",
+      "stars": 17,
+      "forks": 2,
+      "license": "",
+      "last_pushed_at": "2026-07-16T05:01:27Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 13
     }
   ]
 }
