@@ -800,6 +800,11 @@
       "first_seen_at": "2026-07-09",
       "source_query": "desktop pet"
     },
+    "1289594789": {
+      "full_name": "akumatus/spuddy",
+      "first_seen_at": "2026-07-17",
+      "source_query": "desktop pet"
+    },
     "1290553178": {
       "full_name": "Sabrina-creater/claude-pet",
       "first_seen_at": "2026-07-08",
@@ -828,6 +833,11 @@
     "1299145493": {
       "full_name": "lyhkevin/Codex_pet_naiwa",
       "first_seen_at": "2026-07-14",
+      "source_query": "desktop pet"
+    },
+    "1299654320": {
+      "full_name": "tpmoonchefryan/joi-channel-codex-hatch-pet",
+      "first_seen_at": "2026-07-17",
       "source_query": "desktop pet"
     }
   }

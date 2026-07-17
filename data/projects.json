@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T05:22:42.653Z",
-  "total_count": 166,
+  "generated_at": "2026-07-17T05:24:39.663Z",
+  "total_count": 168,
   "projects": [
     {
       "date_found": "2026-06-17",
@@ -3828,6 +3828,54 @@
       "forks": 2,
       "license": "",
       "last_pushed_at": "2026-07-16T05:01:27Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 13
+    },
+    {
+      "date_found": "2026-07-17",
+      "id": 1289594789,
+      "full_name": "akumatus/spuddy",
+      "name": "spuddy",
+      "url": "https://github.com/akumatus/spuddy",
+      "description": "A hand-crocheted potato desktop pet for macOS — he follows your cursor, mutters to himself, remembers what you tell him, and hands you a little card of encouragement, one day at a time. Built with Electron + three.js.",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "TypeScript",
+      "stars": 7,
+      "forks": 1,
+      "license": "NOASSERTION",
+      "last_pushed_at": "2026-07-17T04:12:42Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 13
+    },
+    {
+      "date_found": "2026-07-17",
+      "id": 1299654320,
+      "full_name": "tpmoonchefryan/joi-channel-codex-hatch-pet",
+      "name": "joi-channel-codex-hatch-pet",
+      "url": "https://github.com/tpmoonchefryan/joi-channel-codex-hatch-pet",
+      "description": "Unofficial non-commercial Joi Codex desktop pet",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "",
+      "stars": 6,
+      "forks": 0,
+      "license": "MIT",
+      "last_pushed_at": "2026-07-14T10:57:07Z",
       "reason": "Matched \"desktop pet\" as a desktop, game project with pet signals.",
       "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
       "source_query": "desktop pet",
