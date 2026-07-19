@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T05:06:52.856Z",
-  "total_count": 168,
+  "generated_at": "2026-07-19T05:34:17.174Z",
+  "total_count": 172,
   "projects": [
     {
       "date_found": "2026-06-17",
@@ -3880,6 +3880,103 @@
       "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
       "source_query": "desktop pet",
       "score": 13
+    },
+    {
+      "date_found": "2026-07-19",
+      "id": 1239857741,
+      "full_name": "chinaszzt/desktop-cat",
+      "name": "desktop-cat",
+      "url": "https://github.com/chinaszzt/desktop-cat",
+      "description": "🐾 住在桌面上的手绘小动物,会溜达、犯困、追尾巴、撒娇的猫/猪/熊 · A hand-drawn desktop pet — cats, pigs & bears that wander, doze & chase their tails. Tauri 2, macOS + Windows, ~10 MB.",
+      "platforms": [
+        "desktop",
+        "game",
+        "windows"
+      ],
+      "categories": [
+        "pet",
+        "widget"
+      ],
+      "language": "JavaScript",
+      "stars": 5,
+      "forks": 2,
+      "license": "",
+      "last_pushed_at": "2026-07-18T10:37:35Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game, windows project with pet, widget signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 17
+    },
+    {
+      "date_found": "2026-07-19",
+      "id": 1302985973,
+      "full_name": "sherlidian01-web/phoebe-codex-pet",
+      "name": "phoebe-codex-pet",
+      "url": "https://github.com/sherlidian01-web/phoebe-codex-pet",
+      "description": "A cute Phoebe desktop pet for Codex. 《鸣潮》菲比同人 Codex 桌宠。",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "",
+      "stars": 8,
+      "forks": 0,
+      "license": "",
+      "last_pushed_at": "2026-07-16T16:11:20Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 13
+    },
+    {
+      "date_found": "2026-07-19",
+      "id": 1298210083,
+      "full_name": "eatingwang012/codex-kitty-desktop-pet",
+      "name": "codex-kitty-desktop-pet",
+      "url": "https://github.com/eatingwang012/codex-kitty-desktop-pet",
+      "description": "",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "Python",
+      "stars": 5,
+      "forks": 1,
+      "license": "GPL-3.0",
+      "last_pushed_at": "2026-07-12T11:09:44Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 11
+    },
+    {
+      "date_found": "2026-07-19",
+      "id": 1288914894,
+      "full_name": "wangzifan396-wzf/mini-browser-games",
+      "name": "mini-browser-games",
+      "url": "https://github.com/wangzifan396-wzf/mini-browser-games",
+      "description": "100 zero-dependency, single-file HTML5 browser games | 100 款零依赖浏览器小游戏，支持桌面/触屏、离线运行与质量分级",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "HTML",
+      "stars": 5,
+      "forks": 1,
+      "license": "MIT",
+      "last_pushed_at": "2026-07-18T11:35:04Z",
+      "reason": "Matched \"mini game\" as a game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 7
     }
   ]
 }

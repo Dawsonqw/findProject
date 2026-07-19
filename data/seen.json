@@ -645,6 +645,11 @@
       "first_seen_at": "2026-07-03",
       "source_query": "desktop pet"
     },
+    "1239857741": {
+      "full_name": "chinaszzt/desktop-cat",
+      "first_seen_at": "2026-07-19",
+      "source_query": "desktop pet"
+    },
     "1240122841": {
       "full_name": "michalmaj/cognitive-data-arcade",
       "first_seen_at": "2026-06-22",
@@ -795,6 +800,11 @@
       "first_seen_at": "2026-07-03",
       "source_query": "mini game"
     },
+    "1288914894": {
+      "full_name": "wangzifan396-wzf/mini-browser-games",
+      "first_seen_at": "2026-07-19",
+      "source_query": "mini game"
+    },
     "1289381865": {
       "full_name": "chengbuilds/PetPhrase",
       "first_seen_at": "2026-07-09",
@@ -820,6 +830,11 @@
       "first_seen_at": "2026-07-10",
       "source_query": "mini game"
     },
+    "1298210083": {
+      "full_name": "eatingwang012/codex-kitty-desktop-pet",
+      "first_seen_at": "2026-07-19",
+      "source_query": "desktop pet"
+    },
     "1298296498": {
       "full_name": "ideaseek-zh/card-studio",
       "first_seen_at": "2026-07-13",
@@ -838,6 +853,11 @@
     "1299654320": {
       "full_name": "tpmoonchefryan/joi-channel-codex-hatch-pet",
       "first_seen_at": "2026-07-17",
+      "source_query": "desktop pet"
+    },
+    "1302985973": {
+      "full_name": "sherlidian01-web/phoebe-codex-pet",
+      "first_seen_at": "2026-07-19",
       "source_query": "desktop pet"
     }
   }
