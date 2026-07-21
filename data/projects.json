@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T05:51:40.810Z",
-  "total_count": 172,
+  "generated_at": "2026-07-21T05:32:12.038Z",
+  "total_count": 175,
   "projects": [
     {
       "date_found": "2026-06-17",
@@ -3974,6 +3974,79 @@
       "license": "MIT",
       "last_pushed_at": "2026-07-18T11:35:04Z",
       "reason": "Matched \"mini game\" as a game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
+      "score": 7
+    },
+    {
+      "date_found": "2026-07-21",
+      "id": 1294935833,
+      "full_name": "duzexu/desktop-pet",
+      "name": "desktop-pet",
+      "url": "https://github.com/duzexu/desktop-pet",
+      "description": "跨平台桌面宠物",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "JavaScript",
+      "stars": 5,
+      "forks": 0,
+      "license": "GPL-3.0",
+      "last_pushed_at": "2026-07-17T13:10:10Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 13
+    },
+    {
+      "date_found": "2026-07-21",
+      "id": 1288816114,
+      "full_name": "Ericcccccc777/Poietic-TokenForest",
+      "name": "Poietic-TokenForest",
+      "url": "https://github.com/Ericcccccc777/Poietic-TokenForest",
+      "description": "🌳 Token Forest — a pixel desktop pet that grows a tree from the AI tokens you spend with Claude Code / Codex. Product home & docs.",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "pet",
+        "visual"
+      ],
+      "language": "",
+      "stars": 5,
+      "forks": 1,
+      "license": "NOASSERTION",
+      "last_pushed_at": "2026-07-18T23:25:52Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with pet, visual signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 13
+    },
+    {
+      "date_found": "2026-07-21",
+      "id": 1306637725,
+      "full_name": "noah-parkerdp4638/danzx-2026-script-hub",
+      "name": "danzx-2026-script-hub",
+      "url": "https://github.com/noah-parkerdp4638/danzx-2026-script-hub",
+      "description": "DanzX v2026 is a browser-first game script utility for casual web play, combining football mini-games, Minecraft-style content, and a clean multi-section navigation flow.",
+      "platforms": [
+        "game",
+        "tool"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "HTML",
+      "stars": 6,
+      "forks": 2,
+      "license": "GPL-3.0",
+      "last_pushed_at": "2026-07-21T05:14:04Z",
+      "reason": "Matched \"mini game\" as a game, tool project with game signals.",
       "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
       "source_query": "mini game",
       "score": 7

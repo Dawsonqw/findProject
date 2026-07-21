@@ -800,6 +800,11 @@
       "first_seen_at": "2026-07-03",
       "source_query": "mini game"
     },
+    "1288816114": {
+      "full_name": "Ericcccccc777/Poietic-TokenForest",
+      "first_seen_at": "2026-07-21",
+      "source_query": "desktop pet"
+    },
     "1288914894": {
       "full_name": "wangzifan396-wzf/mini-browser-games",
       "first_seen_at": "2026-07-19",
@@ -823,6 +828,11 @@
     "1291966014": {
       "full_name": "winwinking/FloweyPet",
       "first_seen_at": "2026-07-11",
+      "source_query": "desktop pet"
+    },
+    "1294935833": {
+      "full_name": "duzexu/desktop-pet",
+      "first_seen_at": "2026-07-21",
       "source_query": "desktop pet"
     },
     "1295778727": {
@@ -859,6 +869,11 @@
       "full_name": "sherlidian01-web/phoebe-codex-pet",
       "first_seen_at": "2026-07-19",
       "source_query": "desktop pet"
+    },
+    "1306637725": {
+      "full_name": "noah-parkerdp4638/danzx-2026-script-hub",
+      "first_seen_at": "2026-07-21",
+      "source_query": "mini game"
     }
   }
 }
