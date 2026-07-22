@@ -850,6 +850,11 @@
       "first_seen_at": "2026-07-13",
       "source_query": "wechat mini program"
     },
+    "1298962760": {
+      "full_name": "erich207/nailong-codex-pet",
+      "first_seen_at": "2026-07-22",
+      "source_query": "desktop pet"
+    },
     "1299048824": {
       "full_name": "blackbird-9/ResidentEvilDesktopPet",
       "first_seen_at": "2026-07-15",
@@ -868,6 +873,16 @@
     "1302985973": {
       "full_name": "sherlidian01-web/phoebe-codex-pet",
       "first_seen_at": "2026-07-19",
+      "source_query": "desktop pet"
+    },
+    "1305522446": {
+      "full_name": "sherlidian01-web/Phrolova-codex-pet",
+      "first_seen_at": "2026-07-22",
+      "source_query": "desktop pet"
+    },
+    "1306221757": {
+      "full_name": "CordeliaSun/my-claude-pets",
+      "first_seen_at": "2026-07-22",
       "source_query": "desktop pet"
     },
     "1306637725": {
