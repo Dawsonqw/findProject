@@ -485,6 +485,11 @@
       "first_seen_at": "2026-06-17",
       "source_query": "kotlin app"
     },
+    "1173602484": {
+      "full_name": "sunflowermm/XRK-desktop-pet",
+      "first_seen_at": "2026-07-24",
+      "source_query": "desktop pet"
+    },
     "1175002755": {
       "full_name": "abagames/ai-builds-games-humans-refine",
       "first_seen_at": "2026-06-20",
@@ -900,9 +905,24 @@
       "first_seen_at": "2026-07-22",
       "source_query": "desktop pet"
     },
+    "1306498038": {
+      "full_name": "KanadeK/feibi-jiubi-codex-pet",
+      "first_seen_at": "2026-07-24",
+      "source_query": "desktop pet"
+    },
     "1306637725": {
       "full_name": "noah-parkerdp4638/danzx-2026-script-hub",
       "first_seen_at": "2026-07-21",
+      "source_query": "mini game"
+    },
+    "1308564907": {
+      "full_name": "GaoHaoSong/Desktop-Pet",
+      "first_seen_at": "2026-07-24",
+      "source_query": "desktop pet"
+    },
+    "1308791369": {
+      "full_name": "showmakernotqv/python-mediapipe-games",
+      "first_seen_at": "2026-07-24",
       "source_query": "mini game"
     }
   }

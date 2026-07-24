@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-23T05:36:54.380Z",
-  "total_count": 181,
+  "generated_at": "2026-07-24T05:31:43.759Z",
+  "total_count": 185,
   "projects": [
     {
       "date_found": "2026-06-17",
@@ -4196,6 +4196,102 @@
       "reason": "Matched \"desktop pet\" as a desktop, game project with pet signals.",
       "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
       "source_query": "desktop pet",
+      "score": 11
+    },
+    {
+      "date_found": "2026-07-24",
+      "id": 1308564907,
+      "full_name": "GaoHaoSong/Desktop-Pet",
+      "name": "Desktop-Pet",
+      "url": "https://github.com/GaoHaoSong/Desktop-Pet",
+      "description": "一个支持 Codex 8×9/8×11 动画图集的 Windows 桌面宠物，支持自动行走、托盘控制、鼠标穿透、动态缩放和独立 EXE 构建。",
+      "platforms": [
+        "desktop",
+        "game",
+        "windows"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "C#",
+      "stars": 6,
+      "forks": 1,
+      "license": "MIT",
+      "last_pushed_at": "2026-07-22T12:51:37Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game, windows project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 13
+    },
+    {
+      "date_found": "2026-07-24",
+      "id": 1306498038,
+      "full_name": "KanadeK/feibi-jiubi-codex-pet",
+      "name": "feibi-jiubi-codex-pet",
+      "url": "https://github.com/KanadeK/feibi-jiubi-codex-pet",
+      "description": "菲比啾比 Codex Desktop pet with nine native status animations, reproducible assets, validation, and one-click install.",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "Python",
+      "stars": 5,
+      "forks": 0,
+      "license": "MIT",
+      "last_pushed_at": "2026-07-20T10:46:02Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 13
+    },
+    {
+      "date_found": "2026-07-24",
+      "id": 1173602484,
+      "full_name": "sunflowermm/XRK-desktop-pet",
+      "name": "XRK-desktop-pet",
+      "url": "https://github.com/sunflowermm/XRK-desktop-pet",
+      "description": "向日葵工作室基于 electron 开发的桌宠",
+      "platforms": [
+        "desktop",
+        "game"
+      ],
+      "categories": [
+        "pet"
+      ],
+      "language": "JavaScript",
+      "stars": 5,
+      "forks": 1,
+      "license": "",
+      "last_pushed_at": "2026-07-23T14:32:35Z",
+      "reason": "Matched \"desktop pet\" as a desktop, game project with pet signals.",
+      "dev_idea": "Turn it into a configurable desktop companion for non-technical users.",
+      "source_query": "desktop pet",
+      "score": 13
+    },
+    {
+      "date_found": "2026-07-24",
+      "id": 1308791369,
+      "full_name": "showmakernotqv/python-mediapipe-games",
+      "name": "python-mediapipe-games",
+      "url": "https://github.com/showmakernotqv/python-mediapipe-games",
+      "description": "This project contains 17 detection projects and fun mini-games built using Python's MediaPipe library.",
+      "platforms": [
+        "game"
+      ],
+      "categories": [
+        "game"
+      ],
+      "language": "Python",
+      "stars": 22,
+      "forks": 0,
+      "license": "MIT",
+      "last_pushed_at": "2026-07-22T12:47:30Z",
+      "reason": "Matched \"mini game\" as a game project with game signals.",
+      "dev_idea": "Package the core interaction as a simple casual game with presets for non-technical users.",
+      "source_query": "mini game",
       "score": 11
     }
   ]
